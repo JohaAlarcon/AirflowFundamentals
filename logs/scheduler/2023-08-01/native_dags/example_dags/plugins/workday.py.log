@@ -1090,3 +1090,15 @@
 [2023-08-01T17:44:43.438-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:44:43.438-0500] {utils.py:160} INFO - NumExpr defaulting to 4 threads.
 [2023-08-01T17:44:43.611-0500] {processor.py:838} WARNING - No viable dags retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
 [2023-08-01T17:44:43.618-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.476 seconds
+[2023-08-01T17:45:30.249-0500] {processor.py:157} INFO - Started process (PID=92985) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-08-01T17:45:30.250-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-08-01T17:45:30.251-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:45:30.250-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-08-01T17:45:30.516-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:45:30.516-0500] {utils.py:160} INFO - NumExpr defaulting to 4 threads.
+[2023-08-01T17:45:30.678-0500] {processor.py:838} WARNING - No viable dags retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-08-01T17:45:30.684-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.439 seconds
+[2023-08-01T17:46:12.381-0500] {processor.py:157} INFO - Started process (PID=93040) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-08-01T17:46:12.382-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-08-01T17:46:12.384-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:46:12.383-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-08-01T17:46:12.653-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:46:12.653-0500] {utils.py:160} INFO - NumExpr defaulting to 4 threads.
+[2023-08-01T17:46:12.806-0500] {processor.py:838} WARNING - No viable dags retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-08-01T17:46:12.812-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.437 seconds
