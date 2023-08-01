@@ -1,0 +1,98 @@
+[2023-07-31T16:44:34.520-0500] {processor.py:157} INFO - Started process (PID=68706) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:44:34.521-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-07-31T16:44:34.521-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:44:34.521-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:44:34.539-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:44:34.661-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:44:34.661-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-31T16:44:34.678-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:44:34.678-0500] {dag.py:3504} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-07-31T16:44:34.705-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.188 seconds
+[2023-07-31T16:45:23.189-0500] {processor.py:157} INFO - Started process (PID=68829) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:45:23.197-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-07-31T16:45:23.198-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:45:23.197-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:45:23.213-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:45:23.324-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:45:23.323-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-31T16:45:23.347-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:45:23.347-0500] {dag.py:3504} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-07-31T16:45:23.376-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.191 seconds
+[2023-07-31T16:46:10.831-0500] {processor.py:157} INFO - Started process (PID=68897) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:46:10.838-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-07-31T16:46:10.839-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:46:10.839-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:46:10.855-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:46:10.983-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:46:10.983-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-31T16:46:11.003-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:46:11.003-0500] {dag.py:3504} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-07-31T16:46:11.028-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.202 seconds
+[2023-07-31T16:47:03.242-0500] {processor.py:157} INFO - Started process (PID=68962) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:47:03.249-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-07-31T16:47:03.250-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:47:03.250-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:47:03.266-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:47:03.380-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:47:03.380-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-31T16:47:03.401-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:47:03.401-0500] {dag.py:3504} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-07-31T16:47:03.425-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.186 seconds
+[2023-07-31T16:47:57.699-0500] {processor.py:157} INFO - Started process (PID=69031) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:47:57.707-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-07-31T16:47:57.708-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:47:57.708-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:47:57.730-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:47:57.828-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:47:57.828-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-31T16:47:57.845-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:47:57.844-0500] {dag.py:3504} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-07-31T16:47:57.870-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.176 seconds
+[2023-07-31T16:48:47.262-0500] {processor.py:157} INFO - Started process (PID=69097) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:48:47.270-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-07-31T16:48:47.271-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:48:47.270-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:48:47.287-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:48:47.400-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:48:47.400-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-31T16:48:47.421-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:48:47.421-0500] {dag.py:3504} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-07-31T16:48:47.560-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.301 seconds
+[2023-07-31T16:49:47.092-0500] {processor.py:157} INFO - Started process (PID=69180) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:49:47.098-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-07-31T16:49:47.099-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:49:47.099-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:49:47.116-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:49:47.358-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:49:47.358-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-31T16:49:47.378-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:49:47.378-0500] {dag.py:3504} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-07-31T16:49:47.410-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.321 seconds
+[2023-07-31T16:50:44.141-0500] {processor.py:157} INFO - Started process (PID=69267) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:50:44.149-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-07-31T16:50:44.151-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:50:44.150-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:50:44.173-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:50:44.272-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:50:44.271-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-31T16:50:44.389-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:50:44.389-0500] {dag.py:3504} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-07-31T16:50:44.407-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.271 seconds
+[2023-07-31T16:51:41.296-0500] {processor.py:157} INFO - Started process (PID=69337) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:51:41.304-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-07-31T16:51:41.305-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:51:41.304-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:51:41.324-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:51:41.555-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:51:41.554-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-31T16:51:41.575-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:51:41.575-0500] {dag.py:3504} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-07-31T16:51:41.597-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.304 seconds
+[2023-07-31T16:52:37.846-0500] {processor.py:157} INFO - Started process (PID=69419) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:52:37.854-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-07-31T16:52:37.856-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:52:37.855-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:52:37.875-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:52:37.976-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:52:37.975-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-31T16:52:38.100-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:52:38.099-0500] {dag.py:3504} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-07-31T16:52:38.122-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.281 seconds
+[2023-07-31T16:53:42.597-0500] {processor.py:157} INFO - Started process (PID=69492) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:53:42.606-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-07-31T16:53:42.608-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:53:42.607-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:53:42.634-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:53:42.732-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:53:42.732-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-31T16:53:42.748-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:53:42.748-0500] {dag.py:3504} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-07-31T16:53:42.768-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.177 seconds
+[2023-07-31T16:54:30.914-0500] {processor.py:157} INFO - Started process (PID=69551) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:54:30.922-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-07-31T16:54:30.925-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:54:30.924-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:54:30.956-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:54:31.151-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:54:31.151-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-31T16:54:31.167-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:54:31.167-0500] {dag.py:3504} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-07-31T16:54:31.184-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.277 seconds
+[2023-07-31T16:55:24.254-0500] {processor.py:157} INFO - Started process (PID=69626) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:55:24.262-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-07-31T16:55:24.264-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:55:24.263-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:55:24.287-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:55:24.483-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:55:24.482-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-31T16:55:24.498-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:55:24.498-0500] {dag.py:3504} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-07-31T16:55:24.517-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.268 seconds
+[2023-07-31T16:56:06.399-0500] {processor.py:157} INFO - Started process (PID=69680) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:56:06.406-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py for tasks to queue
+[2023-07-31T16:56:06.407-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:56:06.407-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:56:06.421-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_dag_decorator']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py
+[2023-07-31T16:56:06.616-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:56:06.615-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-31T16:56:06.631-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:56:06.631-0500] {dag.py:3504} INFO - Setting next_dagrun for example_dag_decorator to None, run_after=None
+[2023-07-31T16:56:06.649-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py took 0.253 seconds

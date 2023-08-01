@@ -1,0 +1,112 @@
+[2023-07-31T16:44:24.201-0500] {processor.py:157} INFO - Started process (PID=68423) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:44:24.202-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-31T16:44:24.204-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:44:24.203-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:44:24.211-0500] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:44:24.232-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:44:24.232-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-31T16:44:24.254-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:44:24.254-0500] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-30T21:44:24.254510+00:00, run_after=2023-07-31T21:44:24.254510+00:00
+[2023-07-31T16:44:24.284-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.087 seconds
+[2023-07-31T16:45:13.403-0500] {processor.py:157} INFO - Started process (PID=68811) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:45:13.411-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-31T16:45:13.412-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:45:13.412-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:45:13.421-0500] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:45:13.439-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:45:13.439-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-31T16:45:13.462-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:45:13.462-0500] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-30T21:45:13.462408+00:00, run_after=2023-07-31T21:45:13.462408+00:00
+[2023-07-31T16:45:13.487-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.087 seconds
+[2023-07-31T16:46:03.226-0500] {processor.py:157} INFO - Started process (PID=68876) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:46:03.234-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-31T16:46:03.236-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:46:03.235-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:46:03.251-0500] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:46:03.272-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:46:03.272-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-31T16:46:03.291-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:46:03.290-0500] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-30T21:46:03.290657+00:00, run_after=2023-07-31T21:46:03.290657+00:00
+[2023-07-31T16:46:03.310-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.091 seconds
+[2023-07-31T16:46:54.156-0500] {processor.py:157} INFO - Started process (PID=68946) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:46:54.164-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-31T16:46:54.165-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:46:54.165-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:46:54.174-0500] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:46:54.193-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:46:54.192-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-31T16:46:54.215-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:46:54.214-0500] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-30T21:46:54.214602+00:00, run_after=2023-07-31T21:46:54.214602+00:00
+[2023-07-31T16:46:54.236-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.085 seconds
+[2023-07-31T16:47:31.421-0500] {processor.py:157} INFO - Started process (PID=68997) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:47:31.435-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-31T16:47:31.436-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:47:31.436-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:47:31.450-0500] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:47:31.474-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:47:31.474-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-31T16:47:31.493-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:47:31.493-0500] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-30T21:47:31.493529+00:00, run_after=2023-07-31T21:47:31.493529+00:00
+[2023-07-31T16:47:31.513-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.099 seconds
+[2023-07-31T16:48:09.363-0500] {processor.py:157} INFO - Started process (PID=69042) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:48:09.371-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-31T16:48:09.372-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:48:09.371-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:48:09.383-0500] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:48:09.405-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:48:09.405-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-31T16:48:09.424-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:48:09.424-0500] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-30T21:48:09.424238+00:00, run_after=2023-07-31T21:48:09.424238+00:00
+[2023-07-31T16:48:09.444-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.086 seconds
+[2023-07-31T16:48:59.141-0500] {processor.py:157} INFO - Started process (PID=69111) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:48:59.150-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-31T16:48:59.152-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:48:59.151-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:48:59.174-0500] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:48:59.194-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:48:59.194-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-31T16:48:59.212-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:48:59.212-0500] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-30T21:48:59.212557+00:00, run_after=2023-07-31T21:48:59.212557+00:00
+[2023-07-31T16:48:59.233-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.097 seconds
+[2023-07-31T16:49:37.935-0500] {processor.py:157} INFO - Started process (PID=69165) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:49:37.944-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-31T16:49:37.947-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:49:37.946-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:49:37.959-0500] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:49:37.979-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:49:37.978-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-31T16:49:38.006-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:49:38.006-0500] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-30T21:49:38.006038+00:00, run_after=2023-07-31T21:49:38.006038+00:00
+[2023-07-31T16:49:38.031-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.099 seconds
+[2023-07-31T16:50:18.411-0500] {processor.py:157} INFO - Started process (PID=69228) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:50:18.420-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-31T16:50:18.423-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:50:18.422-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:50:18.452-0500] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:50:18.502-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:50:18.502-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-31T16:50:18.527-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:50:18.526-0500] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-30T21:50:18.526730+00:00, run_after=2023-07-31T21:50:18.526730+00:00
+[2023-07-31T16:50:18.550-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.142 seconds
+[2023-07-31T16:50:57.112-0500] {processor.py:157} INFO - Started process (PID=69279) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:50:57.121-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-31T16:50:57.123-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:50:57.122-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:50:57.139-0500] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:50:57.158-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:50:57.158-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-31T16:50:57.177-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:50:57.177-0500] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-30T21:50:57.177235+00:00, run_after=2023-07-31T21:50:57.177235+00:00
+[2023-07-31T16:50:57.196-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.093 seconds
+[2023-07-31T16:51:36.148-0500] {processor.py:157} INFO - Started process (PID=69327) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:51:36.156-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-31T16:51:36.158-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:51:36.157-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:51:36.172-0500] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:51:36.195-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:51:36.195-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-31T16:51:36.215-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:51:36.214-0500] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-30T21:51:36.214730+00:00, run_after=2023-07-31T21:51:36.214730+00:00
+[2023-07-31T16:51:36.235-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.094 seconds
+[2023-07-31T16:52:31.609-0500] {processor.py:157} INFO - Started process (PID=69409) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:52:31.617-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-31T16:52:31.619-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:52:31.618-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:52:31.634-0500] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:52:31.663-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:52:31.663-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-31T16:52:31.688-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:52:31.688-0500] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-30T21:52:31.687978+00:00, run_after=2023-07-31T21:52:31.687978+00:00
+[2023-07-31T16:52:31.718-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.118 seconds
+[2023-07-31T16:53:16.044-0500] {processor.py:157} INFO - Started process (PID=69458) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:53:16.049-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-31T16:53:16.050-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:53:16.049-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:53:16.057-0500] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:53:16.074-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:53:16.073-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-31T16:53:16.092-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:53:16.092-0500] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-30T21:53:16.092254+00:00, run_after=2023-07-31T21:53:16.092254+00:00
+[2023-07-31T16:53:16.379-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.338 seconds
+[2023-07-31T16:54:01.613-0500] {processor.py:157} INFO - Started process (PID=69511) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:54:01.621-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-31T16:54:01.622-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:54:01.621-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:54:01.628-0500] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:54:01.645-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:54:01.645-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-31T16:54:01.663-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:54:01.663-0500] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-30T21:54:01.663104+00:00, run_after=2023-07-31T21:54:01.663104+00:00
+[2023-07-31T16:54:01.683-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.075 seconds
+[2023-07-31T16:54:48.967-0500] {processor.py:157} INFO - Started process (PID=69572) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:54:48.975-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-31T16:54:48.978-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:54:48.976-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:54:48.997-0500] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:54:49.018-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:54:49.018-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-31T16:54:49.036-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:54:49.036-0500] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-30T21:54:49.036020+00:00, run_after=2023-07-31T21:54:49.036020+00:00
+[2023-07-31T16:54:49.056-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.094 seconds
+[2023-07-31T16:55:46.184-0500] {processor.py:157} INFO - Started process (PID=69653) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:55:46.193-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-07-31T16:55:46.196-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:55:46.194-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:55:46.218-0500] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-07-31T16:55:46.242-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:55:46.242-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-07-31T16:55:46.260-0500] {logging_mixin.py:150} INFO - [2023-07-31T16:55:46.260-0500] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-07-30T21:55:46.260295+00:00, run_after=2023-07-31T21:55:46.260295+00:00
+[2023-07-31T16:55:46.379-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.198 seconds

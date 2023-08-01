@@ -1,0 +1,221 @@
+[2023-08-01T12:25:22.048-0500] {processor.py:157} INFO - Started process (PID=90533) to work on /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T12:25:22.049-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/2.pythonoperator.py for tasks to queue
+[2023-08-01T12:25:22.050-0500] {logging_mixin.py:150} INFO - [2023-08-01T12:25:22.050-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T12:25:22.059-0500] {logging_mixin.py:150} INFO - [2023-08-01T12:25:22.056-0500] {dagbag.py:350} ERROR - Failed to import: /home/joha/airflow/dags/2.pythonoperator.py
+Traceback (most recent call last):
+  File "/home/joha/anaconda3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/joha/airflow/dags/2.pythonoperator.py", line 13, in <module>
+    t1 = PythonOperato(task_id='hello_with_python',
+NameError: name 'PythonOperato' is not defined. Did you mean: 'PythonOperator'?
+[2023-08-01T12:25:22.060-0500] {processor.py:838} WARNING - No viable dags retrieved from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T12:25:22.089-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/2.pythonoperator.py took 0.044 seconds
+[2023-08-01T12:26:00.944-0500] {processor.py:157} INFO - Started process (PID=90610) to work on /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T12:26:00.952-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/2.pythonoperator.py for tasks to queue
+[2023-08-01T12:26:00.953-0500] {logging_mixin.py:150} INFO - [2023-08-01T12:26:00.952-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T12:26:00.962-0500] {logging_mixin.py:150} INFO - [2023-08-01T12:26:00.959-0500] {dagbag.py:350} ERROR - Failed to import: /home/joha/airflow/dags/2.pythonoperator.py
+Traceback (most recent call last):
+  File "/home/joha/anaconda3/lib/python3.10/site-packages/airflow/models/dagbag.py", line 346, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/home/joha/airflow/dags/2.pythonoperator.py", line 13, in <module>
+    t1 = PythonOperato(task_id='hello_with_python',
+NameError: name 'PythonOperato' is not defined. Did you mean: 'PythonOperator'?
+[2023-08-01T12:26:00.964-0500] {processor.py:838} WARNING - No viable dags retrieved from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T12:26:00.984-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/2.pythonoperator.py took 0.045 seconds
+[2023-08-01T12:26:21.794-0500] {processor.py:157} INFO - Started process (PID=90659) to work on /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T12:26:21.795-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/2.pythonoperator.py for tasks to queue
+[2023-08-01T12:26:21.797-0500] {logging_mixin.py:150} INFO - [2023-08-01T12:26:21.796-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T12:26:21.807-0500] {processor.py:836} INFO - DAG(s) dict_keys(['pythonoperator']) retrieved from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T12:26:21.959-0500] {logging_mixin.py:150} INFO - [2023-08-01T12:26:21.958-0500] {manager.py:504} INFO - Created Permission View: can edit on DAG:pythonoperator
+[2023-08-01T12:26:21.974-0500] {logging_mixin.py:150} INFO - [2023-08-01T12:26:21.974-0500] {manager.py:504} INFO - Created Permission View: can read on DAG:pythonoperator
+[2023-08-01T12:26:21.988-0500] {logging_mixin.py:150} INFO - [2023-08-01T12:26:21.988-0500] {manager.py:504} INFO - Created Permission View: can delete on DAG:pythonoperator
+[2023-08-01T12:26:22.010-0500] {logging_mixin.py:150} INFO - [2023-08-01T12:26:22.010-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T12:26:22.021-0500] {logging_mixin.py:150} INFO - [2023-08-01T12:26:22.021-0500] {dag.py:2763} INFO - Creating ORM DAG for pythonoperator
+[2023-08-01T12:26:22.032-0500] {logging_mixin.py:150} INFO - [2023-08-01T12:26:22.031-0500] {dag.py:3504} INFO - Setting next_dagrun for pythonoperator to 2022-08-01T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2023-08-01T12:26:22.081-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/2.pythonoperator.py took 0.291 seconds
+[2023-08-01T12:27:08.128-0500] {processor.py:157} INFO - Started process (PID=90751) to work on /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T12:27:08.136-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/2.pythonoperator.py for tasks to queue
+[2023-08-01T12:27:08.137-0500] {logging_mixin.py:150} INFO - [2023-08-01T12:27:08.137-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T12:27:08.144-0500] {processor.py:836} INFO - DAG(s) dict_keys(['pythonoperator']) retrieved from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T12:27:08.164-0500] {logging_mixin.py:150} INFO - [2023-08-01T12:27:08.164-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T12:27:08.184-0500] {logging_mixin.py:150} INFO - [2023-08-01T12:27:08.184-0500] {dag.py:3504} INFO - Setting next_dagrun for pythonoperator to 2022-08-01T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2023-08-01T12:27:08.205-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/2.pythonoperator.py took 0.081 seconds
+[2023-08-01T12:27:59.162-0500] {processor.py:157} INFO - Started process (PID=90881) to work on /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T12:27:59.170-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/2.pythonoperator.py for tasks to queue
+[2023-08-01T12:27:59.171-0500] {logging_mixin.py:150} INFO - [2023-08-01T12:27:59.170-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T12:27:59.178-0500] {processor.py:836} INFO - DAG(s) dict_keys(['pythonoperator']) retrieved from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T12:27:59.201-0500] {logging_mixin.py:150} INFO - [2023-08-01T12:27:59.201-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T12:27:59.223-0500] {logging_mixin.py:150} INFO - [2023-08-01T12:27:59.223-0500] {dag.py:3504} INFO - Setting next_dagrun for pythonoperator to None, run_after=None
+[2023-08-01T12:27:59.246-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/2.pythonoperator.py took 0.087 seconds
+[2023-08-01T12:28:44.062-0500] {processor.py:157} INFO - Started process (PID=90970) to work on /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T12:28:44.065-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/2.pythonoperator.py for tasks to queue
+[2023-08-01T12:28:44.068-0500] {logging_mixin.py:150} INFO - [2023-08-01T12:28:44.067-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T12:28:44.082-0500] {processor.py:836} INFO - DAG(s) dict_keys(['pythonoperator']) retrieved from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T12:28:44.104-0500] {logging_mixin.py:150} INFO - [2023-08-01T12:28:44.104-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T12:28:44.127-0500] {logging_mixin.py:150} INFO - [2023-08-01T12:28:44.127-0500] {dag.py:3504} INFO - Setting next_dagrun for pythonoperator to None, run_after=None
+[2023-08-01T12:28:44.149-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/2.pythonoperator.py took 0.105 seconds
+[2023-08-01T12:29:33.679-0500] {processor.py:157} INFO - Started process (PID=91084) to work on /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T12:29:33.705-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/2.pythonoperator.py for tasks to queue
+[2023-08-01T12:29:33.707-0500] {logging_mixin.py:150} INFO - [2023-08-01T12:29:33.706-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T12:29:33.719-0500] {processor.py:836} INFO - DAG(s) dict_keys(['pythonoperator']) retrieved from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T12:29:33.744-0500] {logging_mixin.py:150} INFO - [2023-08-01T12:29:33.744-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T12:29:33.771-0500] {logging_mixin.py:150} INFO - [2023-08-01T12:29:33.771-0500] {dag.py:3504} INFO - Setting next_dagrun for pythonoperator to None, run_after=None
+[2023-08-01T12:29:33.806-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/2.pythonoperator.py took 0.131 seconds
+[2023-08-01T12:30:13.522-0500] {processor.py:157} INFO - Started process (PID=91171) to work on /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T12:30:13.530-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/2.pythonoperator.py for tasks to queue
+[2023-08-01T12:30:13.532-0500] {logging_mixin.py:150} INFO - [2023-08-01T12:30:13.531-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T12:30:13.541-0500] {processor.py:836} INFO - DAG(s) dict_keys(['pythonoperator']) retrieved from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T12:30:13.558-0500] {logging_mixin.py:150} INFO - [2023-08-01T12:30:13.558-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T12:30:13.580-0500] {logging_mixin.py:150} INFO - [2023-08-01T12:30:13.580-0500] {dag.py:3504} INFO - Setting next_dagrun for pythonoperator to None, run_after=None
+[2023-08-01T12:30:13.600-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/2.pythonoperator.py took 0.082 seconds
+[2023-08-01T17:30:30.768-0500] {processor.py:157} INFO - Started process (PID=91474) to work on /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:30:30.776-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/2.pythonoperator.py for tasks to queue
+[2023-08-01T17:30:30.777-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:30:30.777-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:30:30.783-0500] {processor.py:836} INFO - DAG(s) dict_keys(['pythonoperator']) retrieved from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:30:30.801-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:30:30.801-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:30:30.824-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:30:30.823-0500] {dag.py:3504} INFO - Setting next_dagrun for pythonoperator to None, run_after=None
+[2023-08-01T17:30:30.844-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/2.pythonoperator.py took 0.080 seconds
+[2023-08-01T17:31:10.531-0500] {processor.py:157} INFO - Started process (PID=91634) to work on /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:31:10.539-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/2.pythonoperator.py for tasks to queue
+[2023-08-01T17:31:10.540-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:31:10.539-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:31:10.548-0500] {processor.py:836} INFO - DAG(s) dict_keys(['pythonoperator']) retrieved from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:31:10.567-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:31:10.566-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:31:10.585-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:31:10.585-0500] {dag.py:3504} INFO - Setting next_dagrun for pythonoperator to None, run_after=None
+[2023-08-01T17:31:10.604-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/2.pythonoperator.py took 0.078 seconds
+[2023-08-01T17:31:51.124-0500] {processor.py:157} INFO - Started process (PID=91683) to work on /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:31:51.125-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/2.pythonoperator.py for tasks to queue
+[2023-08-01T17:31:51.127-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:31:51.126-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:31:51.135-0500] {processor.py:836} INFO - DAG(s) dict_keys(['pythonoperator']) retrieved from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:31:51.151-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:31:51.151-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:31:51.171-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:31:51.171-0500] {dag.py:3504} INFO - Setting next_dagrun for pythonoperator to None, run_after=None
+[2023-08-01T17:31:51.191-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/2.pythonoperator.py took 0.072 seconds
+[2023-08-01T17:32:32.583-0500] {processor.py:157} INFO - Started process (PID=91740) to work on /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:32:32.592-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/2.pythonoperator.py for tasks to queue
+[2023-08-01T17:32:32.596-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:32:32.595-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:32:32.611-0500] {processor.py:836} INFO - DAG(s) dict_keys(['pythonoperator']) retrieved from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:32:32.634-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:32:32.634-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:32:32.659-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:32:32.659-0500] {dag.py:3504} INFO - Setting next_dagrun for pythonoperator to None, run_after=None
+[2023-08-01T17:32:32.682-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/2.pythonoperator.py took 0.103 seconds
+[2023-08-01T17:33:13.444-0500] {processor.py:157} INFO - Started process (PID=91802) to work on /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:33:13.451-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/2.pythonoperator.py for tasks to queue
+[2023-08-01T17:33:13.453-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:33:13.452-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:33:13.460-0500] {processor.py:836} INFO - DAG(s) dict_keys(['pythonoperator']) retrieved from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:33:13.480-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:33:13.479-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:33:13.498-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:33:13.498-0500] {dag.py:3504} INFO - Setting next_dagrun for pythonoperator to None, run_after=None
+[2023-08-01T17:33:13.519-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/2.pythonoperator.py took 0.079 seconds
+[2023-08-01T17:33:54.166-0500] {processor.py:157} INFO - Started process (PID=91867) to work on /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:33:54.174-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/2.pythonoperator.py for tasks to queue
+[2023-08-01T17:33:54.176-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:33:54.175-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:33:54.184-0500] {processor.py:836} INFO - DAG(s) dict_keys(['pythonoperator']) retrieved from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:33:54.201-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:33:54.201-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:33:54.221-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:33:54.220-0500] {dag.py:3504} INFO - Setting next_dagrun for pythonoperator to None, run_after=None
+[2023-08-01T17:33:54.239-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/2.pythonoperator.py took 0.077 seconds
+[2023-08-01T17:34:36.629-0500] {processor.py:157} INFO - Started process (PID=91924) to work on /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:34:36.637-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/2.pythonoperator.py for tasks to queue
+[2023-08-01T17:34:36.638-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:34:36.638-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:34:36.646-0500] {processor.py:836} INFO - DAG(s) dict_keys(['pythonoperator']) retrieved from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:34:36.664-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:34:36.664-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:34:36.683-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:34:36.683-0500] {dag.py:3504} INFO - Setting next_dagrun for pythonoperator to None, run_after=None
+[2023-08-01T17:34:36.703-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/2.pythonoperator.py took 0.079 seconds
+[2023-08-01T17:35:21.155-0500] {processor.py:157} INFO - Started process (PID=91987) to work on /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:35:21.163-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/2.pythonoperator.py for tasks to queue
+[2023-08-01T17:35:21.164-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:35:21.163-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:35:21.171-0500] {processor.py:836} INFO - DAG(s) dict_keys(['pythonoperator']) retrieved from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:35:21.192-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:35:21.192-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:35:21.215-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:35:21.215-0500] {dag.py:3504} INFO - Setting next_dagrun for pythonoperator to None, run_after=None
+[2023-08-01T17:35:21.240-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/2.pythonoperator.py took 0.088 seconds
+[2023-08-01T17:36:03.778-0500] {processor.py:157} INFO - Started process (PID=92051) to work on /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:36:03.786-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/2.pythonoperator.py for tasks to queue
+[2023-08-01T17:36:03.790-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:36:03.789-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:36:03.806-0500] {processor.py:836} INFO - DAG(s) dict_keys(['pythonoperator']) retrieved from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:36:03.826-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:36:03.826-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:36:03.845-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:36:03.845-0500] {dag.py:3504} INFO - Setting next_dagrun for pythonoperator to None, run_after=None
+[2023-08-01T17:36:03.865-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/2.pythonoperator.py took 0.091 seconds
+[2023-08-01T17:36:45.880-0500] {processor.py:157} INFO - Started process (PID=92099) to work on /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:36:45.888-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/2.pythonoperator.py for tasks to queue
+[2023-08-01T17:36:45.889-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:36:45.889-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:36:45.897-0500] {processor.py:836} INFO - DAG(s) dict_keys(['pythonoperator']) retrieved from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:36:45.916-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:36:45.916-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:36:45.936-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:36:45.935-0500] {dag.py:3504} INFO - Setting next_dagrun for pythonoperator to None, run_after=None
+[2023-08-01T17:36:45.954-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/2.pythonoperator.py took 0.078 seconds
+[2023-08-01T17:37:32.468-0500] {processor.py:157} INFO - Started process (PID=92149) to work on /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:37:32.477-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/2.pythonoperator.py for tasks to queue
+[2023-08-01T17:37:32.480-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:37:32.479-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:37:32.496-0500] {processor.py:836} INFO - DAG(s) dict_keys(['pythonoperator']) retrieved from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:37:32.515-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:37:32.515-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:37:32.533-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:37:32.533-0500] {dag.py:3504} INFO - Setting next_dagrun for pythonoperator to None, run_after=None
+[2023-08-01T17:37:32.553-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/2.pythonoperator.py took 0.090 seconds
+[2023-08-01T17:38:17.947-0500] {processor.py:157} INFO - Started process (PID=92207) to work on /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:38:17.955-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/2.pythonoperator.py for tasks to queue
+[2023-08-01T17:38:17.956-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:38:17.955-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:38:17.963-0500] {processor.py:836} INFO - DAG(s) dict_keys(['pythonoperator']) retrieved from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:38:17.981-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:38:17.981-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:38:18.006-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:38:18.005-0500] {dag.py:3504} INFO - Setting next_dagrun for pythonoperator to None, run_after=None
+[2023-08-01T17:38:18.031-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/2.pythonoperator.py took 0.088 seconds
+[2023-08-01T17:39:00.065-0500] {processor.py:157} INFO - Started process (PID=92272) to work on /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:39:00.072-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/2.pythonoperator.py for tasks to queue
+[2023-08-01T17:39:00.074-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:39:00.073-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:39:00.080-0500] {processor.py:836} INFO - DAG(s) dict_keys(['pythonoperator']) retrieved from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:39:00.097-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:39:00.097-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:39:00.116-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:39:00.116-0500] {dag.py:3504} INFO - Setting next_dagrun for pythonoperator to None, run_after=None
+[2023-08-01T17:39:00.137-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/2.pythonoperator.py took 0.076 seconds
+[2023-08-01T17:39:44.565-0500] {processor.py:157} INFO - Started process (PID=92387) to work on /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:39:44.572-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/2.pythonoperator.py for tasks to queue
+[2023-08-01T17:39:44.573-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:39:44.573-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:39:44.581-0500] {processor.py:836} INFO - DAG(s) dict_keys(['pythonoperator']) retrieved from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:39:44.598-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:39:44.597-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:39:44.621-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:39:44.621-0500] {dag.py:3504} INFO - Setting next_dagrun for pythonoperator to None, run_after=None
+[2023-08-01T17:39:44.640-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/2.pythonoperator.py took 0.080 seconds
+[2023-08-01T17:40:29.420-0500] {processor.py:157} INFO - Started process (PID=92553) to work on /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:40:29.421-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/2.pythonoperator.py for tasks to queue
+[2023-08-01T17:40:29.422-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:40:29.421-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:40:29.428-0500] {processor.py:836} INFO - DAG(s) dict_keys(['pythonoperator']) retrieved from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:40:29.447-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:40:29.447-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:40:29.469-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:40:29.469-0500] {dag.py:3504} INFO - Setting next_dagrun for pythonoperator to None, run_after=None
+[2023-08-01T17:40:29.493-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/2.pythonoperator.py took 0.077 seconds
+[2023-08-01T17:41:10.204-0500] {processor.py:157} INFO - Started process (PID=92602) to work on /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:41:10.212-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/2.pythonoperator.py for tasks to queue
+[2023-08-01T17:41:10.214-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:41:10.213-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:41:10.223-0500] {processor.py:836} INFO - DAG(s) dict_keys(['pythonoperator']) retrieved from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:41:10.245-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:41:10.245-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:41:10.269-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:41:10.269-0500] {dag.py:3504} INFO - Setting next_dagrun for pythonoperator to None, run_after=None
+[2023-08-01T17:41:10.293-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/2.pythonoperator.py took 0.095 seconds
+[2023-08-01T17:41:59.436-0500] {processor.py:157} INFO - Started process (PID=92660) to work on /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:41:59.444-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/2.pythonoperator.py for tasks to queue
+[2023-08-01T17:41:59.446-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:41:59.445-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:41:59.457-0500] {processor.py:836} INFO - DAG(s) dict_keys(['pythonoperator']) retrieved from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:41:59.479-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:41:59.479-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:41:59.500-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:41:59.500-0500] {dag.py:3504} INFO - Setting next_dagrun for pythonoperator to None, run_after=None
+[2023-08-01T17:41:59.522-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/2.pythonoperator.py took 0.093 seconds
+[2023-08-01T17:42:42.606-0500] {processor.py:157} INFO - Started process (PID=92713) to work on /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:42:42.614-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/2.pythonoperator.py for tasks to queue
+[2023-08-01T17:42:42.616-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:42:42.615-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:42:42.625-0500] {processor.py:836} INFO - DAG(s) dict_keys(['pythonoperator']) retrieved from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:42:42.643-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:42:42.643-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:42:42.664-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:42:42.664-0500] {dag.py:3504} INFO - Setting next_dagrun for pythonoperator to None, run_after=None
+[2023-08-01T17:42:42.687-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/2.pythonoperator.py took 0.087 seconds
+[2023-08-01T17:43:25.001-0500] {processor.py:157} INFO - Started process (PID=92809) to work on /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:43:25.009-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/2.pythonoperator.py for tasks to queue
+[2023-08-01T17:43:25.012-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:43:25.011-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:43:25.023-0500] {processor.py:836} INFO - DAG(s) dict_keys(['pythonoperator']) retrieved from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:43:25.048-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:43:25.048-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:43:25.077-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:43:25.077-0500] {dag.py:3504} INFO - Setting next_dagrun for pythonoperator to None, run_after=None
+[2023-08-01T17:43:25.102-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/2.pythonoperator.py took 0.110 seconds
+[2023-08-01T17:44:08.975-0500] {processor.py:157} INFO - Started process (PID=92864) to work on /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:44:08.977-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/2.pythonoperator.py for tasks to queue
+[2023-08-01T17:44:08.978-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:44:08.977-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:44:08.984-0500] {processor.py:836} INFO - DAG(s) dict_keys(['pythonoperator']) retrieved from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:44:09.002-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:44:09.002-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:44:09.025-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:44:09.025-0500] {dag.py:3504} INFO - Setting next_dagrun for pythonoperator to None, run_after=None
+[2023-08-01T17:44:09.045-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/2.pythonoperator.py took 0.074 seconds
+[2023-08-01T17:44:55.809-0500] {processor.py:157} INFO - Started process (PID=92942) to work on /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:44:55.817-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/2.pythonoperator.py for tasks to queue
+[2023-08-01T17:44:55.820-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:44:55.819-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:44:55.834-0500] {processor.py:836} INFO - DAG(s) dict_keys(['pythonoperator']) retrieved from /home/joha/airflow/dags/2.pythonoperator.py
+[2023-08-01T17:44:55.861-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:44:55.860-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:44:55.882-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:44:55.881-0500] {dag.py:3504} INFO - Setting next_dagrun for pythonoperator to None, run_after=None
+[2023-08-01T17:44:55.904-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/2.pythonoperator.py took 0.104 seconds
