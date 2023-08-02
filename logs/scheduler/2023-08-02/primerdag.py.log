@@ -1,0 +1,182 @@
+[2023-08-01T20:25:28.635-0500] {processor.py:157} INFO - Started process (PID=99407) to work on /home/joha/airflow/dags/primerdag.py
+[2023-08-01T20:25:28.636-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/primerdag.py for tasks to queue
+[2023-08-01T20:25:28.637-0500] {logging_mixin.py:150} INFO - [2023-08-01T20:25:28.636-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/primerdag.py
+[2023-08-01T20:25:28.642-0500] {processor.py:836} INFO - DAG(s) dict_keys(['primerdag']) retrieved from /home/joha/airflow/dags/primerdag.py
+[2023-08-01T20:25:28.658-0500] {logging_mixin.py:150} INFO - [2023-08-01T20:25:28.658-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T20:25:28.680-0500] {logging_mixin.py:150} INFO - [2023-08-01T20:25:28.680-0500] {dag.py:3504} INFO - Setting next_dagrun for primerdag to 2022-07-01T00:00:00+00:00, run_after=2022-07-01T00:00:00+00:00
+[2023-08-01T20:25:28.710-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/primerdag.py took 0.078 seconds
+[2023-08-01T20:26:19.703-0500] {processor.py:157} INFO - Started process (PID=99610) to work on /home/joha/airflow/dags/primerdag.py
+[2023-08-01T20:26:19.712-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/primerdag.py for tasks to queue
+[2023-08-01T20:26:19.713-0500] {logging_mixin.py:150} INFO - [2023-08-01T20:26:19.713-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/primerdag.py
+[2023-08-01T20:26:19.721-0500] {processor.py:836} INFO - DAG(s) dict_keys(['primerdag']) retrieved from /home/joha/airflow/dags/primerdag.py
+[2023-08-01T20:26:19.737-0500] {logging_mixin.py:150} INFO - [2023-08-01T20:26:19.737-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T20:26:19.758-0500] {logging_mixin.py:150} INFO - [2023-08-01T20:26:19.758-0500] {dag.py:3504} INFO - Setting next_dagrun for primerdag to 2022-07-01T00:00:00+00:00, run_after=2022-07-01T00:00:00+00:00
+[2023-08-01T20:26:19.777-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/primerdag.py took 0.086 seconds
+[2023-08-02T11:08:13.760-0500] {processor.py:157} INFO - Started process (PID=105182) to work on /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:08:13.767-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/primerdag.py for tasks to queue
+[2023-08-02T11:08:13.769-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:08:13.768-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:08:13.782-0500] {processor.py:836} INFO - DAG(s) dict_keys(['primerdag']) retrieved from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:08:13.810-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:08:13.810-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-02T11:08:13.829-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:08:13.829-0500] {dag.py:3504} INFO - Setting next_dagrun for primerdag to 2022-07-01T00:00:00+00:00, run_after=2022-07-01T00:00:00+00:00
+[2023-08-02T11:08:13.850-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/primerdag.py took 0.095 seconds
+[2023-08-02T11:09:08.957-0500] {processor.py:157} INFO - Started process (PID=105286) to work on /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:09:08.966-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/primerdag.py for tasks to queue
+[2023-08-02T11:09:08.970-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:09:08.969-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:09:08.990-0500] {processor.py:836} INFO - DAG(s) dict_keys(['primerdag']) retrieved from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:09:09.024-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:09:09.023-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-02T11:09:09.043-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:09:09.043-0500] {dag.py:3504} INFO - Setting next_dagrun for primerdag to 2022-07-01T00:00:00+00:00, run_after=2022-07-01T00:00:00+00:00
+[2023-08-02T11:09:09.065-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/primerdag.py took 0.121 seconds
+[2023-08-02T11:09:57.678-0500] {processor.py:157} INFO - Started process (PID=105413) to work on /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:09:57.687-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/primerdag.py for tasks to queue
+[2023-08-02T11:09:57.689-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:09:57.688-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:09:57.696-0500] {processor.py:836} INFO - DAG(s) dict_keys(['primerdag']) retrieved from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:09:57.715-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:09:57.715-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-02T11:09:57.739-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:09:57.739-0500] {dag.py:3504} INFO - Setting next_dagrun for primerdag to 2022-07-01T00:00:00+00:00, run_after=2022-07-01T00:00:00+00:00
+[2023-08-02T11:09:57.764-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/primerdag.py took 0.090 seconds
+[2023-08-02T11:10:43.404-0500] {processor.py:157} INFO - Started process (PID=105583) to work on /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:10:43.412-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/primerdag.py for tasks to queue
+[2023-08-02T11:10:43.413-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:10:43.413-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:10:43.422-0500] {processor.py:836} INFO - DAG(s) dict_keys(['primerdag']) retrieved from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:10:43.441-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:10:43.441-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-02T11:10:43.462-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:10:43.462-0500] {dag.py:3504} INFO - Setting next_dagrun for primerdag to 2022-07-01T00:00:00+00:00, run_after=2022-07-01T00:00:00+00:00
+[2023-08-02T11:10:43.489-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/primerdag.py took 0.091 seconds
+[2023-08-02T11:11:31.498-0500] {processor.py:157} INFO - Started process (PID=105702) to work on /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:11:31.507-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/primerdag.py for tasks to queue
+[2023-08-02T11:11:31.509-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:11:31.508-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:11:31.520-0500] {processor.py:836} INFO - DAG(s) dict_keys(['primerdag']) retrieved from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:11:31.538-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:11:31.537-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-02T11:11:31.558-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:11:31.557-0500] {dag.py:3504} INFO - Setting next_dagrun for primerdag to 2022-07-01T00:00:00+00:00, run_after=2022-07-01T00:00:00+00:00
+[2023-08-02T11:11:31.577-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/primerdag.py took 0.085 seconds
+[2023-08-02T11:12:21.292-0500] {processor.py:157} INFO - Started process (PID=105838) to work on /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:12:21.302-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/primerdag.py for tasks to queue
+[2023-08-02T11:12:21.306-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:12:21.305-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:12:21.326-0500] {processor.py:836} INFO - DAG(s) dict_keys(['primerdag']) retrieved from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:12:21.354-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:12:21.354-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-02T11:12:21.384-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:12:21.383-0500] {dag.py:3504} INFO - Setting next_dagrun for primerdag to 2022-07-01T00:00:00+00:00, run_after=2022-07-01T00:00:00+00:00
+[2023-08-02T11:12:21.404-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/primerdag.py took 0.123 seconds
+[2023-08-02T11:13:04.243-0500] {processor.py:157} INFO - Started process (PID=105935) to work on /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:13:04.252-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/primerdag.py for tasks to queue
+[2023-08-02T11:13:04.256-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:13:04.255-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:13:04.267-0500] {processor.py:836} INFO - DAG(s) dict_keys(['primerdag']) retrieved from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:13:04.294-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:13:04.293-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-02T11:13:04.318-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:13:04.318-0500] {dag.py:3504} INFO - Setting next_dagrun for primerdag to 2022-07-01T00:00:00+00:00, run_after=2022-07-01T00:00:00+00:00
+[2023-08-02T11:13:04.348-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/primerdag.py took 0.108 seconds
+[2023-08-02T11:13:44.501-0500] {processor.py:157} INFO - Started process (PID=105994) to work on /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:13:44.509-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/primerdag.py for tasks to queue
+[2023-08-02T11:13:44.510-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:13:44.509-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:13:44.516-0500] {processor.py:836} INFO - DAG(s) dict_keys(['primerdag']) retrieved from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:13:44.539-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:13:44.538-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-02T11:13:44.559-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:13:44.559-0500] {dag.py:3504} INFO - Setting next_dagrun for primerdag to 2022-07-01T00:00:00+00:00, run_after=2022-07-01T00:00:00+00:00
+[2023-08-02T11:13:44.583-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/primerdag.py took 0.085 seconds
+[2023-08-02T11:14:26.327-0500] {processor.py:157} INFO - Started process (PID=106052) to work on /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:14:26.335-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/primerdag.py for tasks to queue
+[2023-08-02T11:14:26.336-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:14:26.336-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:14:26.343-0500] {processor.py:836} INFO - DAG(s) dict_keys(['primerdag']) retrieved from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:14:26.361-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:14:26.361-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-02T11:14:26.384-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:14:26.384-0500] {dag.py:3504} INFO - Setting next_dagrun for primerdag to 2022-07-01T00:00:00+00:00, run_after=2022-07-01T00:00:00+00:00
+[2023-08-02T11:14:26.407-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/primerdag.py took 0.083 seconds
+[2023-08-02T11:15:12.510-0500] {processor.py:157} INFO - Started process (PID=106185) to work on /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:15:12.518-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/primerdag.py for tasks to queue
+[2023-08-02T11:15:12.519-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:15:12.519-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:15:12.528-0500] {processor.py:836} INFO - DAG(s) dict_keys(['primerdag']) retrieved from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:15:12.549-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:15:12.548-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-02T11:15:12.568-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:15:12.568-0500] {dag.py:3504} INFO - Setting next_dagrun for primerdag to 2022-07-01T00:00:00+00:00, run_after=2022-07-01T00:00:00+00:00
+[2023-08-02T11:15:12.590-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/primerdag.py took 0.083 seconds
+[2023-08-02T11:16:02.098-0500] {processor.py:157} INFO - Started process (PID=106324) to work on /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:16:02.108-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/primerdag.py for tasks to queue
+[2023-08-02T11:16:02.112-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:16:02.110-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:16:02.129-0500] {processor.py:836} INFO - DAG(s) dict_keys(['primerdag']) retrieved from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:16:02.148-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:16:02.148-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-02T11:16:02.168-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:16:02.168-0500] {dag.py:3504} INFO - Setting next_dagrun for primerdag to 2022-07-01T00:00:00+00:00, run_after=2022-07-01T00:00:00+00:00
+[2023-08-02T11:16:02.189-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/primerdag.py took 0.094 seconds
+[2023-08-02T11:16:48.976-0500] {processor.py:157} INFO - Started process (PID=106437) to work on /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:16:48.985-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/primerdag.py for tasks to queue
+[2023-08-02T11:16:48.988-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:16:48.987-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:16:49.011-0500] {processor.py:836} INFO - DAG(s) dict_keys(['primerdag']) retrieved from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:16:49.069-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:16:49.069-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-02T11:16:49.102-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:16:49.102-0500] {dag.py:3504} INFO - Setting next_dagrun for primerdag to 2022-07-01T00:00:00+00:00, run_after=2022-07-01T00:00:00+00:00
+[2023-08-02T11:16:49.127-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/primerdag.py took 0.164 seconds
+[2023-08-02T11:17:33.320-0500] {processor.py:157} INFO - Started process (PID=106566) to work on /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:17:33.333-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/primerdag.py for tasks to queue
+[2023-08-02T11:17:33.335-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:17:33.334-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:17:33.347-0500] {processor.py:836} INFO - DAG(s) dict_keys(['primerdag']) retrieved from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:17:33.373-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:17:33.373-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-02T11:17:33.400-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:17:33.400-0500] {dag.py:3504} INFO - Setting next_dagrun for primerdag to 2022-07-01T00:00:00+00:00, run_after=2022-07-01T00:00:00+00:00
+[2023-08-02T11:17:33.421-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/primerdag.py took 0.113 seconds
+[2023-08-02T11:18:16.830-0500] {processor.py:157} INFO - Started process (PID=106704) to work on /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:18:16.837-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/primerdag.py for tasks to queue
+[2023-08-02T11:18:16.838-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:18:16.838-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:18:16.845-0500] {processor.py:836} INFO - DAG(s) dict_keys(['primerdag']) retrieved from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:18:16.862-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:18:16.862-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-02T11:18:16.883-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:18:16.882-0500] {dag.py:3504} INFO - Setting next_dagrun for primerdag to 2022-07-01T00:00:00+00:00, run_after=2022-07-01T00:00:00+00:00
+[2023-08-02T11:18:16.902-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/primerdag.py took 0.076 seconds
+[2023-08-02T11:19:02.525-0500] {processor.py:157} INFO - Started process (PID=106802) to work on /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:19:02.533-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/primerdag.py for tasks to queue
+[2023-08-02T11:19:02.534-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:19:02.533-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:19:02.539-0500] {processor.py:836} INFO - DAG(s) dict_keys(['primerdag']) retrieved from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:19:02.556-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:19:02.556-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-02T11:19:02.575-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:19:02.575-0500] {dag.py:3504} INFO - Setting next_dagrun for primerdag to 2022-07-01T00:00:00+00:00, run_after=2022-07-01T00:00:00+00:00
+[2023-08-02T11:19:02.605-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/primerdag.py took 0.084 seconds
+[2023-08-02T11:19:51.637-0500] {processor.py:157} INFO - Started process (PID=106917) to work on /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:19:51.643-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/primerdag.py for tasks to queue
+[2023-08-02T11:19:51.644-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:19:51.644-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:19:51.655-0500] {processor.py:836} INFO - DAG(s) dict_keys(['primerdag']) retrieved from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:19:51.709-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:19:51.709-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-02T11:19:51.778-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:19:51.778-0500] {dag.py:3504} INFO - Setting next_dagrun for primerdag to 2022-07-01T00:00:00+00:00, run_after=2022-07-01T00:00:00+00:00
+[2023-08-02T11:19:51.808-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/primerdag.py took 0.176 seconds
+[2023-08-02T11:20:40.598-0500] {processor.py:157} INFO - Started process (PID=107045) to work on /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:20:40.606-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/primerdag.py for tasks to queue
+[2023-08-02T11:20:40.607-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:20:40.607-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:20:40.616-0500] {processor.py:836} INFO - DAG(s) dict_keys(['primerdag']) retrieved from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:20:40.641-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:20:40.640-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-02T11:20:40.676-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:20:40.675-0500] {dag.py:3504} INFO - Setting next_dagrun for primerdag to 2022-07-01T00:00:00+00:00, run_after=2022-07-01T00:00:00+00:00
+[2023-08-02T11:20:40.726-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/primerdag.py took 0.133 seconds
+[2023-08-02T11:21:43.135-0500] {processor.py:157} INFO - Started process (PID=107256) to work on /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:21:43.142-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/primerdag.py for tasks to queue
+[2023-08-02T11:21:43.144-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:21:43.143-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:21:43.177-0500] {processor.py:836} INFO - DAG(s) dict_keys(['primerdag']) retrieved from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:21:43.312-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:21:43.309-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-02T11:21:43.415-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:21:43.415-0500] {dag.py:3504} INFO - Setting next_dagrun for primerdag to 2022-07-01T00:00:00+00:00, run_after=2022-07-01T00:00:00+00:00
+[2023-08-02T11:21:43.508-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/primerdag.py took 0.385 seconds
+[2023-08-02T11:22:47.234-0500] {processor.py:157} INFO - Started process (PID=107579) to work on /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:22:47.244-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/primerdag.py for tasks to queue
+[2023-08-02T11:22:47.247-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:22:47.246-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:22:47.269-0500] {processor.py:836} INFO - DAG(s) dict_keys(['primerdag']) retrieved from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:22:47.308-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:22:47.308-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-02T11:22:47.332-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:22:47.331-0500] {dag.py:3504} INFO - Setting next_dagrun for primerdag to 2022-07-01T00:00:00+00:00, run_after=2022-07-01T00:00:00+00:00
+[2023-08-02T11:22:47.355-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/primerdag.py took 0.134 seconds
+[2023-08-02T11:23:26.554-0500] {processor.py:157} INFO - Started process (PID=108096) to work on /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:23:26.591-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/primerdag.py for tasks to queue
+[2023-08-02T11:23:26.592-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:23:26.592-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:23:26.621-0500] {processor.py:836} INFO - DAG(s) dict_keys(['primerdag']) retrieved from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:23:26.655-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:23:26.654-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-02T11:23:26.701-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:23:26.701-0500] {dag.py:3504} INFO - Setting next_dagrun for primerdag to 2022-07-01T00:00:00+00:00, run_after=2022-07-01T00:00:00+00:00
+[2023-08-02T11:23:27.245-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/primerdag.py took 0.696 seconds
+[2023-08-02T11:24:11.479-0500] {processor.py:157} INFO - Started process (PID=108209) to work on /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:24:11.486-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/primerdag.py for tasks to queue
+[2023-08-02T11:24:11.488-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:24:11.487-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:24:11.494-0500] {processor.py:836} INFO - DAG(s) dict_keys(['primerdag']) retrieved from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:24:11.512-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:24:11.512-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-02T11:24:11.532-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:24:11.532-0500] {dag.py:3504} INFO - Setting next_dagrun for primerdag to 2022-07-01T00:00:00+00:00, run_after=2022-07-01T00:00:00+00:00
+[2023-08-02T11:24:11.559-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/primerdag.py took 0.083 seconds
+[2023-08-02T11:24:57.588-0500] {processor.py:157} INFO - Started process (PID=108337) to work on /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:24:57.598-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/primerdag.py for tasks to queue
+[2023-08-02T11:24:57.601-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:24:57.600-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:24:57.622-0500] {processor.py:836} INFO - DAG(s) dict_keys(['primerdag']) retrieved from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:24:57.685-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:24:57.684-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-02T11:24:57.719-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:24:57.718-0500] {dag.py:3504} INFO - Setting next_dagrun for primerdag to 2022-07-01T00:00:00+00:00, run_after=2022-07-01T00:00:00+00:00
+[2023-08-02T11:24:57.741-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/primerdag.py took 0.164 seconds
+[2023-08-02T11:25:37.014-0500] {processor.py:157} INFO - Started process (PID=108408) to work on /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:25:37.022-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/primerdag.py for tasks to queue
+[2023-08-02T11:25:37.023-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:25:37.022-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:25:37.030-0500] {processor.py:836} INFO - DAG(s) dict_keys(['primerdag']) retrieved from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:25:37.051-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:25:37.051-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-02T11:25:37.075-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:25:37.075-0500] {dag.py:3504} INFO - Setting next_dagrun for primerdag to 2022-07-01T00:00:00+00:00, run_after=2022-07-01T00:00:00+00:00
+[2023-08-02T11:25:37.099-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/primerdag.py took 0.088 seconds
+[2023-08-02T11:27:03.542-0500] {processor.py:157} INFO - Started process (PID=108589) to work on /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:27:03.558-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/primerdag.py for tasks to queue
+[2023-08-02T11:27:03.561-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:27:03.560-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:27:03.577-0500] {processor.py:836} INFO - DAG(s) dict_keys(['primerdag']) retrieved from /home/joha/airflow/dags/primerdag.py
+[2023-08-02T11:27:03.608-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:27:03.607-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-02T11:27:03.634-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:27:03.634-0500] {dag.py:3504} INFO - Setting next_dagrun for primerdag to 2022-07-01T00:00:00+00:00, run_after=2022-07-01T00:00:00+00:00
+[2023-08-02T11:27:03.663-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/primerdag.py took 0.125 seconds

@@ -1146,3 +1146,437 @@
 [2023-08-01T17:47:14.703-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:47:14.703-0500] {dag.py:2742} INFO - Sync 1 DAGs
 [2023-08-01T17:47:14.722-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:47:14.722-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
 [2023-08-01T17:47:14.743-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.155 seconds
+[2023-08-01T17:49:35.120-0500] {processor.py:157} INFO - Started process (PID=93247) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:49:35.126-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T17:49:35.127-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:49:35.127-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:49:35.149-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:49:35.224-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:49:35.224-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:49:35.243-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:49:35.242-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T17:49:35.262-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.147 seconds
+[2023-08-01T17:50:24.802-0500] {processor.py:157} INFO - Started process (PID=93308) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:50:24.810-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T17:50:24.812-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:50:24.811-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:50:24.840-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:50:24.912-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:50:24.911-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:50:24.931-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:50:24.930-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T17:50:24.950-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.152 seconds
+[2023-08-01T17:51:16.720-0500] {processor.py:157} INFO - Started process (PID=93366) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:51:16.728-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T17:51:16.731-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:51:16.730-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:51:16.765-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:51:16.834-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:51:16.834-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:51:16.852-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:51:16.852-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T17:51:16.871-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.155 seconds
+[2023-08-01T17:52:00.362-0500] {processor.py:157} INFO - Started process (PID=93427) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:52:00.370-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T17:52:00.371-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:52:00.371-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:52:00.409-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:52:00.477-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:52:00.477-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:52:00.499-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:52:00.498-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T17:52:00.519-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.162 seconds
+[2023-08-01T17:52:44.807-0500] {processor.py:157} INFO - Started process (PID=93487) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:52:44.815-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T17:52:44.818-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:52:44.817-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:52:44.848-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:52:44.935-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:52:44.935-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:52:44.955-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:52:44.955-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T17:52:44.982-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.178 seconds
+[2023-08-01T17:53:29.347-0500] {processor.py:157} INFO - Started process (PID=93734) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:53:29.354-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T17:53:29.356-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:53:29.355-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:53:29.385-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:53:29.459-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:53:29.458-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:53:29.478-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:53:29.478-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T17:53:29.505-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.163 seconds
+[2023-08-01T17:54:33.401-0500] {processor.py:157} INFO - Started process (PID=93873) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:54:33.409-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T17:54:33.412-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:54:33.411-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:54:33.453-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:54:33.522-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:54:33.522-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:54:33.540-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:54:33.540-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T17:54:33.560-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.162 seconds
+[2023-08-01T17:55:16.956-0500] {processor.py:157} INFO - Started process (PID=93975) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:55:16.965-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T17:55:16.969-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:55:16.968-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:55:17.020-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:55:17.102-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:55:17.102-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:55:17.123-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:55:17.123-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T17:55:17.144-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.199 seconds
+[2023-08-01T17:56:02.475-0500] {processor.py:157} INFO - Started process (PID=94075) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:56:02.484-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T17:56:02.487-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:56:02.486-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:56:02.522-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:56:02.591-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:56:02.591-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:56:02.610-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:56:02.609-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T17:56:02.630-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.159 seconds
+[2023-08-01T17:57:04.670-0500] {processor.py:157} INFO - Started process (PID=94187) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:57:04.678-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T17:57:04.680-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:57:04.679-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:57:04.709-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:57:04.777-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:57:04.777-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:57:04.796-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:57:04.795-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T17:57:04.814-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.149 seconds
+[2023-08-01T17:58:04.582-0500] {processor.py:157} INFO - Started process (PID=94292) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:58:04.590-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T17:58:04.593-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:58:04.592-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:58:04.633-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:58:04.703-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:58:04.703-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:58:04.721-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:58:04.721-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T17:58:04.741-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.162 seconds
+[2023-08-01T17:59:08.713-0500] {processor.py:157} INFO - Started process (PID=94458) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:59:08.721-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T17:59:08.722-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:59:08.722-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:59:08.752-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T17:59:08.832-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:59:08.832-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T17:59:08.851-0500] {logging_mixin.py:150} INFO - [2023-08-01T17:59:08.851-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T17:59:08.871-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.161 seconds
+[2023-08-01T18:00:08.647-0500] {processor.py:157} INFO - Started process (PID=94545) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:00:08.655-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:00:08.656-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:00:08.656-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:00:08.687-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:00:08.756-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:00:08.755-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:00:08.775-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:00:08.775-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:00:08.894-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.253 seconds
+[2023-08-01T18:00:52.189-0500] {processor.py:157} INFO - Started process (PID=94620) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:00:52.196-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:00:52.197-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:00:52.197-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:00:52.225-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:00:52.295-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:00:52.294-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:00:52.313-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:00:52.313-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:00:52.332-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.148 seconds
+[2023-08-01T18:01:35.534-0500] {processor.py:157} INFO - Started process (PID=94745) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:01:35.541-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:01:35.542-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:01:35.542-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:01:35.564-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:01:35.635-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:01:35.635-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:01:35.654-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:01:35.654-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:01:35.889-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.358 seconds
+[2023-08-01T18:02:23.981-0500] {processor.py:157} INFO - Started process (PID=94921) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:02:23.982-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:02:23.984-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:02:23.983-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:02:24.012-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:02:24.107-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:02:24.107-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:02:24.129-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:02:24.129-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:02:24.159-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.182 seconds
+[2023-08-01T18:03:12.206-0500] {processor.py:157} INFO - Started process (PID=95066) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:03:12.209-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:03:12.210-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:03:12.210-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:03:12.236-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:03:12.315-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:03:12.315-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:03:12.340-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:03:12.340-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:03:12.521-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.320 seconds
+[2023-08-01T18:03:56.720-0500] {processor.py:157} INFO - Started process (PID=95205) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:03:56.728-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:03:56.730-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:03:56.729-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:03:56.760-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:03:56.936-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:03:56.936-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:03:56.954-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:03:56.954-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:03:56.973-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.258 seconds
+[2023-08-01T18:04:45.360-0500] {processor.py:157} INFO - Started process (PID=95340) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:04:45.368-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:04:45.370-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:04:45.369-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:04:45.397-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:04:45.493-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:04:45.493-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:04:45.523-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:04:45.522-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:04:45.558-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.205 seconds
+[2023-08-01T18:05:33.491-0500] {processor.py:157} INFO - Started process (PID=95463) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:05:33.499-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:05:33.500-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:05:33.499-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:05:33.521-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:05:33.598-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:05:33.598-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:05:33.725-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:05:33.725-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:05:33.754-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.267 seconds
+[2023-08-01T18:06:25.790-0500] {processor.py:157} INFO - Started process (PID=95566) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:06:25.797-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:06:25.798-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:06:25.798-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:06:25.830-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:06:25.905-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:06:25.905-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:06:25.923-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:06:25.923-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:06:25.945-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.159 seconds
+[2023-08-01T18:07:15.398-0500] {processor.py:157} INFO - Started process (PID=95646) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:07:15.407-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:07:15.411-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:07:15.410-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:07:15.483-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:07:15.689-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:07:15.689-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:07:15.709-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:07:15.709-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:07:15.731-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.340 seconds
+[2023-08-01T18:08:07.618-0500] {processor.py:157} INFO - Started process (PID=95703) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:08:07.626-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:08:07.628-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:08:07.627-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:08:07.654-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:08:07.729-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:08:07.729-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:08:07.749-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:08:07.749-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:08:07.877-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.266 seconds
+[2023-08-01T18:08:57.936-0500] {processor.py:157} INFO - Started process (PID=95834) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:08:57.946-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:08:57.950-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:08:57.948-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:08:58.031-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:08:58.238-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:08:58.238-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:08:58.256-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:08:58.256-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:08:58.277-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.355 seconds
+[2023-08-01T18:09:48.610-0500] {processor.py:157} INFO - Started process (PID=96022) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:09:48.618-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:09:48.619-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:09:48.619-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:09:48.647-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:09:48.725-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:09:48.725-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:09:48.845-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:09:48.845-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:09:48.870-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.264 seconds
+[2023-08-01T18:10:43.672-0500] {processor.py:157} INFO - Started process (PID=96109) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:10:43.674-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:10:43.675-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:10:43.674-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:10:43.715-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:10:43.952-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:10:43.952-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:10:43.969-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:10:43.969-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:10:43.991-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.322 seconds
+[2023-08-01T18:11:40.799-0500] {processor.py:157} INFO - Started process (PID=96216) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:11:40.801-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:11:40.802-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:11:40.801-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:11:40.825-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:11:40.899-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:11:40.899-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:11:41.022-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:11:41.022-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:11:41.041-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.246 seconds
+[2023-08-01T18:12:36.118-0500] {processor.py:157} INFO - Started process (PID=96347) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:12:36.127-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:12:36.129-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:12:36.128-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:12:36.172-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:12:36.402-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:12:36.402-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:12:36.424-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:12:36.424-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:12:36.455-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.348 seconds
+[2023-08-01T18:13:34.677-0500] {processor.py:157} INFO - Started process (PID=96633) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:13:34.680-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:13:34.683-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:13:34.682-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:13:34.786-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:13:34.892-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:13:34.892-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:13:35.028-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:13:35.027-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:13:35.047-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.383 seconds
+[2023-08-01T18:14:32.768-0500] {processor.py:157} INFO - Started process (PID=96748) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:14:32.778-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:14:32.779-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:14:32.778-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:14:32.816-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:14:33.004-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:14:33.004-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:14:33.022-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:14:33.022-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:14:33.050-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.297 seconds
+[2023-08-01T18:15:33.108-0500] {processor.py:157} INFO - Started process (PID=96878) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:15:33.117-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:15:33.120-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:15:33.118-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:15:33.179-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:15:33.257-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:15:33.256-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:15:33.278-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:15:33.277-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:15:33.305-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.210 seconds
+[2023-08-01T18:16:29.552-0500] {processor.py:157} INFO - Started process (PID=97099) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:16:29.556-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:16:29.560-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:16:29.558-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:16:29.593-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:16:29.680-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:16:29.680-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:16:29.702-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:16:29.702-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:16:29.724-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.183 seconds
+[2023-08-01T18:17:23.043-0500] {processor.py:157} INFO - Started process (PID=97316) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:17:23.051-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:17:23.053-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:17:23.052-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:17:23.088-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:17:23.177-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:17:23.177-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:17:23.197-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:17:23.197-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:17:23.223-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.183 seconds
+[2023-08-01T18:18:09.917-0500] {processor.py:157} INFO - Started process (PID=97412) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:18:09.918-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:18:09.919-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:18:09.919-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:18:09.953-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:18:10.052-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:18:10.052-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:18:10.082-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:18:10.081-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:18:10.116-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.204 seconds
+[2023-08-01T18:18:56.305-0500] {processor.py:157} INFO - Started process (PID=97480) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:18:56.314-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:18:56.317-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:18:56.316-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:18:56.356-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:18:56.433-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:18:56.433-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:18:56.453-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:18:56.452-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:18:56.474-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.174 seconds
+[2023-08-01T18:19:48.496-0500] {processor.py:157} INFO - Started process (PID=97543) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:19:48.500-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:19:48.503-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:19:48.502-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:19:48.551-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:19:48.628-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:19:48.628-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:19:48.649-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:19:48.649-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:19:48.671-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.186 seconds
+[2023-08-01T18:20:41.283-0500] {processor.py:157} INFO - Started process (PID=97607) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:20:41.293-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:20:41.296-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:20:41.294-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:20:41.357-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:20:41.448-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:20:41.448-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:20:41.469-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:20:41.469-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:20:41.490-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.221 seconds
+[2023-08-01T18:21:37.159-0500] {processor.py:157} INFO - Started process (PID=97678) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:21:37.169-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:21:37.172-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:21:37.171-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:21:37.244-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:21:37.323-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:21:37.323-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:21:37.343-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:21:37.343-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:21:37.364-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.216 seconds
+[2023-08-01T18:22:32.472-0500] {processor.py:157} INFO - Started process (PID=97739) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:22:32.481-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:22:32.483-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:22:32.482-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:22:32.511-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:22:32.592-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:22:32.592-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:22:32.614-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:22:32.613-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:22:32.638-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.174 seconds
+[2023-08-01T18:23:22.945-0500] {processor.py:157} INFO - Started process (PID=97799) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:23:22.948-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:23:22.953-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:23:22.951-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:23:22.988-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:23:23.065-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:23:23.064-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:23:23.086-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:23:23.085-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:23:23.108-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.177 seconds
+[2023-08-01T18:24:12.785-0500] {processor.py:157} INFO - Started process (PID=97854) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:24:12.786-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:24:12.787-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:24:12.787-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:24:12.810-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:24:12.887-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:24:12.887-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:24:12.909-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:24:12.909-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:24:12.941-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.159 seconds
+[2023-08-01T18:24:58.370-0500] {processor.py:157} INFO - Started process (PID=97908) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:24:58.372-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:24:58.374-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:24:58.373-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:24:58.403-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:24:58.483-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:24:58.482-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:24:58.504-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:24:58.504-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:24:58.527-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.165 seconds
+[2023-08-01T18:25:44.885-0500] {processor.py:157} INFO - Started process (PID=97966) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:25:44.894-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:25:44.897-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:25:44.896-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:25:44.937-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:25:45.020-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:25:45.019-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:25:45.041-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:25:45.041-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:25:45.063-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.185 seconds
+[2023-08-01T18:26:33.148-0500] {processor.py:157} INFO - Started process (PID=98014) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:26:33.149-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:26:33.151-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:26:33.150-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:26:33.177-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:26:33.254-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:26:33.254-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:26:33.274-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:26:33.274-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:26:33.295-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.152 seconds
+[2023-08-01T18:27:26.361-0500] {processor.py:157} INFO - Started process (PID=98074) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:27:26.370-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:27:26.373-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:27:26.372-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:27:26.414-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:27:26.492-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:27:26.491-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:27:26.512-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:27:26.512-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:27:26.533-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.180 seconds
+[2023-08-01T18:28:16.774-0500] {processor.py:157} INFO - Started process (PID=98139) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:28:16.781-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:28:16.784-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:28:16.783-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:28:16.832-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:28:16.908-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:28:16.908-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:28:16.928-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:28:16.928-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:28:16.956-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.192 seconds
+[2023-08-01T18:29:12.334-0500] {processor.py:157} INFO - Started process (PID=98207) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:29:12.343-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:29:12.345-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:29:12.344-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:29:12.384-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:29:12.459-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:29:12.459-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:29:12.481-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:29:12.480-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:29:12.501-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.173 seconds
+[2023-08-01T18:30:01.188-0500] {processor.py:157} INFO - Started process (PID=98261) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:30:01.190-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:30:01.191-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:30:01.190-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:30:01.214-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:30:01.290-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:30:01.290-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:30:01.311-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:30:01.311-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:30:01.334-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.150 seconds
+[2023-08-01T18:30:47.221-0500] {processor.py:157} INFO - Started process (PID=98319) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:30:47.228-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:30:47.230-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:30:47.229-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:30:47.257-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:30:47.331-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:30:47.331-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:30:47.352-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:30:47.352-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:30:47.374-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.157 seconds
+[2023-08-01T18:31:35.261-0500] {processor.py:157} INFO - Started process (PID=98369) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:31:35.268-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:31:35.269-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:31:35.269-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:31:35.292-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:31:35.371-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:31:35.371-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:31:35.391-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:31:35.391-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:31:35.415-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.159 seconds
+[2023-08-01T18:32:30.652-0500] {processor.py:157} INFO - Started process (PID=98428) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:32:30.653-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:32:30.654-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:32:30.654-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:32:30.679-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:32:30.755-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:32:30.755-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:32:30.777-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:32:30.776-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:32:30.802-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.155 seconds
+[2023-08-01T18:33:18.174-0500] {processor.py:157} INFO - Started process (PID=98482) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:33:18.181-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:33:18.182-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:33:18.182-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:33:18.208-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:33:18.284-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:33:18.284-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:33:18.304-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:33:18.304-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:33:18.325-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.155 seconds
+[2023-08-01T18:34:06.414-0500] {processor.py:157} INFO - Started process (PID=98535) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:34:06.417-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:34:06.420-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:34:06.419-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:34:06.456-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:34:06.533-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:34:06.533-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:34:06.553-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:34:06.553-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:34:06.575-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.173 seconds
+[2023-08-01T18:34:55.024-0500] {processor.py:157} INFO - Started process (PID=98594) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:34:55.037-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:34:55.039-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:34:55.038-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:34:55.073-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:34:55.153-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:34:55.153-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:34:55.175-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:34:55.175-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:34:55.199-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.185 seconds
+[2023-08-01T18:35:43.803-0500] {processor.py:157} INFO - Started process (PID=98681) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:35:43.806-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:35:43.809-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:35:43.808-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:35:43.845-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:35:43.920-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:35:43.920-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:35:43.940-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:35:43.940-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:35:43.961-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.169 seconds
+[2023-08-01T18:36:36.140-0500] {processor.py:157} INFO - Started process (PID=98746) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:36:36.150-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:36:36.152-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:36:36.151-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:36:36.190-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:36:36.269-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:36:36.269-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:36:36.290-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:36:36.290-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:36:36.316-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.186 seconds
+[2023-08-01T18:37:24.848-0500] {processor.py:157} INFO - Started process (PID=98801) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:37:24.857-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:37:24.859-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:37:24.858-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:37:24.892-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:37:24.966-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:37:24.966-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:37:24.986-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:37:24.986-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:37:25.011-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.173 seconds
+[2023-08-01T18:38:12.810-0500] {processor.py:157} INFO - Started process (PID=98855) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:38:12.811-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:38:12.812-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:38:12.812-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:38:12.836-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:38:12.913-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:38:12.913-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:38:12.934-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:38:12.933-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:38:12.960-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.154 seconds
+[2023-08-01T18:39:19.543-0500] {processor.py:157} INFO - Started process (PID=98927) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:39:19.552-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:39:19.554-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:39:19.554-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:39:19.583-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:39:19.662-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:39:19.661-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:39:19.682-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:39:19.682-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:39:19.704-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.165 seconds
+[2023-08-01T18:40:11.666-0500] {processor.py:157} INFO - Started process (PID=98984) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:40:11.675-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:40:11.677-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:40:11.676-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:40:11.715-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:40:11.791-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:40:11.790-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:40:11.811-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:40:11.811-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:40:11.834-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.176 seconds
+[2023-08-01T18:41:06.584-0500] {processor.py:157} INFO - Started process (PID=99065) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:41:06.594-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:41:06.597-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:41:06.596-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:41:06.663-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:41:06.745-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:41:06.745-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:41:06.766-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:41:06.766-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:41:06.789-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.216 seconds
+[2023-08-01T18:41:57.886-0500] {processor.py:157} INFO - Started process (PID=99122) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:41:57.896-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py for tasks to queue
+[2023-08-01T18:41:57.899-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:41:57.898-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:41:57.958-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_params_trigger_ui']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py
+[2023-08-01T18:41:58.032-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:41:58.032-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-01T18:41:58.053-0500] {logging_mixin.py:150} INFO - [2023-08-01T18:41:58.053-0500] {dag.py:3504} INFO - Setting next_dagrun for example_params_trigger_ui to None, run_after=None
+[2023-08-01T18:41:58.076-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_params_trigger_ui.py took 0.200 seconds

@@ -1,0 +1,39 @@
+[2023-08-02T11:23:10.355-0500] {processor.py:157} INFO - Started process (PID=107864) to work on /home/joha/airflow/dags/4.customOperator.py
+[2023-08-02T11:23:10.356-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/4.customOperator.py for tasks to queue
+[2023-08-02T11:23:10.357-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:23:10.357-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/4.customOperator.py
+[2023-08-02T11:23:10.371-0500] {processor.py:836} INFO - DAG(s) dict_keys(['customoperator']) retrieved from /home/joha/airflow/dags/4.customOperator.py
+[2023-08-02T11:23:10.601-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:23:10.601-0500] {manager.py:504} INFO - Created Permission View: can edit on DAG:customoperator
+[2023-08-02T11:23:10.630-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:23:10.630-0500] {manager.py:504} INFO - Created Permission View: can read on DAG:customoperator
+[2023-08-02T11:23:10.678-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:23:10.677-0500] {manager.py:504} INFO - Created Permission View: can delete on DAG:customoperator
+[2023-08-02T11:23:10.757-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:23:10.757-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-02T11:23:10.878-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:23:10.878-0500] {dag.py:2763} INFO - Creating ORM DAG for customoperator
+[2023-08-02T11:23:11.349-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:23:11.348-0500] {dag.py:3504} INFO - Setting next_dagrun for customoperator to 2022-08-01T00:00:00+00:00, run_after=2022-08-02T00:00:00+00:00
+[2023-08-02T11:23:11.402-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/4.customOperator.py took 1.055 seconds
+[2023-08-02T11:24:00.685-0500] {processor.py:157} INFO - Started process (PID=108185) to work on /home/joha/airflow/dags/4.customOperator.py
+[2023-08-02T11:24:00.694-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/4.customOperator.py for tasks to queue
+[2023-08-02T11:24:00.696-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:24:00.695-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/4.customOperator.py
+[2023-08-02T11:24:00.709-0500] {processor.py:836} INFO - DAG(s) dict_keys(['customoperator']) retrieved from /home/joha/airflow/dags/4.customOperator.py
+[2023-08-02T11:24:00.746-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:24:00.746-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-02T11:24:00.781-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:24:00.781-0500] {dag.py:3504} INFO - Setting next_dagrun for customoperator to 2022-08-01T00:00:00+00:00, run_after=2022-08-02T00:00:00+00:00
+[2023-08-02T11:24:00.806-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/4.customOperator.py took 0.128 seconds
+[2023-08-02T11:24:52.740-0500] {processor.py:157} INFO - Started process (PID=108320) to work on /home/joha/airflow/dags/4.customOperator.py
+[2023-08-02T11:24:52.741-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/4.customOperator.py for tasks to queue
+[2023-08-02T11:24:52.742-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:24:52.742-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/4.customOperator.py
+[2023-08-02T11:24:52.749-0500] {processor.py:836} INFO - DAG(s) dict_keys(['customoperator']) retrieved from /home/joha/airflow/dags/4.customOperator.py
+[2023-08-02T11:24:52.770-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:24:52.770-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-02T11:24:52.794-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:24:52.794-0500] {dag.py:3504} INFO - Setting next_dagrun for customoperator to 2022-08-09T00:00:00+00:00, run_after=2022-08-10T00:00:00+00:00
+[2023-08-02T11:24:52.825-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/4.customOperator.py took 0.089 seconds
+[2023-08-02T11:25:33.046-0500] {processor.py:157} INFO - Started process (PID=108401) to work on /home/joha/airflow/dags/4.customOperator.py
+[2023-08-02T11:25:33.053-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/4.customOperator.py for tasks to queue
+[2023-08-02T11:25:33.054-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:25:33.054-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/4.customOperator.py
+[2023-08-02T11:25:33.062-0500] {processor.py:836} INFO - DAG(s) dict_keys(['customoperator']) retrieved from /home/joha/airflow/dags/4.customOperator.py
+[2023-08-02T11:25:33.080-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:25:33.080-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-02T11:25:33.103-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:25:33.103-0500] {dag.py:3504} INFO - Setting next_dagrun for customoperator to 2022-08-09T00:00:00+00:00, run_after=2022-08-10T00:00:00+00:00
+[2023-08-02T11:25:33.124-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/4.customOperator.py took 0.084 seconds
+[2023-08-02T11:26:50.564-0500] {processor.py:157} INFO - Started process (PID=108558) to work on /home/joha/airflow/dags/4.customOperator.py
+[2023-08-02T11:26:50.570-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/4.customOperator.py for tasks to queue
+[2023-08-02T11:26:50.571-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:26:50.571-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/4.customOperator.py
+[2023-08-02T11:26:50.579-0500] {processor.py:836} INFO - DAG(s) dict_keys(['customoperator']) retrieved from /home/joha/airflow/dags/4.customOperator.py
+[2023-08-02T11:26:50.599-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:26:50.599-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-02T11:26:50.624-0500] {logging_mixin.py:150} INFO - [2023-08-02T11:26:50.624-0500] {dag.py:3504} INFO - Setting next_dagrun for customoperator to 2022-08-17T00:00:00+00:00, run_after=2022-08-18T00:00:00+00:00
+[2023-08-02T11:26:50.655-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/4.customOperator.py took 0.094 seconds
