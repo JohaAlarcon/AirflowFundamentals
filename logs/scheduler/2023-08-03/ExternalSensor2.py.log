@@ -1,0 +1,724 @@
+[2023-08-03T15:40:10.343-0500] {processor.py:157} INFO - Started process (PID=13253) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T15:40:10.349-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T15:40:10.351-0500] {logging_mixin.py:150} INFO - [2023-08-03T15:40:10.350-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T15:40:10.368-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T15:40:10.561-0500] {logging_mixin.py:150} INFO - [2023-08-03T15:40:10.561-0500] {manager.py:504} INFO - Created Permission View: can edit on DAG:externalTaskSensor2
+[2023-08-03T15:40:10.572-0500] {logging_mixin.py:150} INFO - [2023-08-03T15:40:10.572-0500] {manager.py:504} INFO - Created Permission View: can read on DAG:externalTaskSensor2
+[2023-08-03T15:40:10.579-0500] {logging_mixin.py:150} INFO - [2023-08-03T15:40:10.579-0500] {manager.py:504} INFO - Created Permission View: can delete on DAG:externalTaskSensor2
+[2023-08-03T15:40:10.590-0500] {logging_mixin.py:150} INFO - [2023-08-03T15:40:10.590-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T15:40:10.598-0500] {logging_mixin.py:150} INFO - [2023-08-03T15:40:10.598-0500] {dag.py:2763} INFO - Creating ORM DAG for externalTaskSensor2
+[2023-08-03T15:40:10.606-0500] {logging_mixin.py:150} INFO - [2023-08-03T15:40:10.606-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-20T00:00:00+00:00, run_after=2022-08-21T00:00:00+00:00
+[2023-08-03T15:40:10.625-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.295 seconds
+[2023-08-03T15:40:43.460-0500] {processor.py:157} INFO - Started process (PID=13984) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T15:40:43.469-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T15:40:43.470-0500] {logging_mixin.py:150} INFO - [2023-08-03T15:40:43.469-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T15:40:43.477-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T15:40:43.505-0500] {logging_mixin.py:150} INFO - [2023-08-03T15:40:43.505-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T15:40:43.524-0500] {logging_mixin.py:150} INFO - [2023-08-03T15:40:43.524-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-20T00:00:00+00:00, run_after=2022-08-21T00:00:00+00:00
+[2023-08-03T15:40:43.557-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.104 seconds
+[2023-08-03T16:16:26.942-0500] {processor.py:157} INFO - Started process (PID=14825) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:16:26.951-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:16:26.953-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:16:26.952-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:16:26.970-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:16:26.998-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:16:26.998-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:16:27.041-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.104 seconds
+[2023-08-03T16:19:34.399-0500] {processor.py:157} INFO - Started process (PID=15017) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:19:34.411-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:19:34.416-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:19:34.414-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:19:34.483-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:19:34.654-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:19:34.653-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:19:34.844-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:19:34.843-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:19:34.983-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.604 seconds
+[2023-08-03T16:21:01.350-0500] {processor.py:157} INFO - Started process (PID=15186) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:21:01.361-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:21:01.364-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:21:01.363-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:21:01.401-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:21:01.437-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:21:01.436-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:21:01.464-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:21:01.464-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:21:01.488-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.151 seconds
+[2023-08-03T16:21:40.634-0500] {processor.py:157} INFO - Started process (PID=15256) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:21:40.642-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:21:40.643-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:21:40.642-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:21:40.654-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:21:40.674-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:21:40.674-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:21:40.697-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:21:40.696-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:21:40.721-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.091 seconds
+[2023-08-03T16:22:16.471-0500] {processor.py:157} INFO - Started process (PID=15298) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:22:16.481-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:22:16.484-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:22:16.483-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:22:16.515-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:22:16.541-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:22:16.541-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:22:16.564-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:22:16.563-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:22:16.587-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.128 seconds
+[2023-08-03T16:22:53.197-0500] {processor.py:157} INFO - Started process (PID=15332) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:22:53.204-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:22:53.206-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:22:53.205-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:22:53.215-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:22:53.234-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:22:53.234-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:22:53.257-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:22:53.257-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:22:53.279-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.087 seconds
+[2023-08-03T16:23:29.006-0500] {processor.py:157} INFO - Started process (PID=15373) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:23:29.014-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:23:29.018-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:23:29.017-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:23:29.039-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:23:29.060-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:23:29.059-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:23:29.082-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:23:29.082-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:23:29.107-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.106 seconds
+[2023-08-03T16:24:01.678-0500] {processor.py:157} INFO - Started process (PID=15406) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:24:01.689-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:24:01.693-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:24:01.691-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:24:01.739-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:24:01.770-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:24:01.770-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:24:01.794-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:24:01.793-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:24:01.815-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.148 seconds
+[2023-08-03T16:24:36.835-0500] {processor.py:157} INFO - Started process (PID=15447) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:24:36.843-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:24:36.845-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:24:36.845-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:24:36.864-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:24:36.892-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:24:36.892-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:24:36.927-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:24:36.927-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:24:36.964-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.134 seconds
+[2023-08-03T16:25:10.861-0500] {processor.py:157} INFO - Started process (PID=15496) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:25:10.871-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:25:10.875-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:25:10.874-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:25:10.902-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:25:10.928-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:25:10.928-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:25:10.953-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:25:10.952-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:25:10.976-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.127 seconds
+[2023-08-03T16:25:45.514-0500] {processor.py:157} INFO - Started process (PID=15537) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:25:45.521-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:25:45.523-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:25:45.522-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:25:45.533-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:25:45.552-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:25:45.552-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:25:45.576-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:25:45.575-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:25:45.598-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.088 seconds
+[2023-08-03T16:26:21.337-0500] {processor.py:157} INFO - Started process (PID=15569) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:26:21.346-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:26:21.349-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:26:21.348-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:26:21.378-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:26:21.400-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:26:21.400-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:26:21.424-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:26:21.424-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:26:21.447-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.114 seconds
+[2023-08-03T16:26:56.842-0500] {processor.py:157} INFO - Started process (PID=15610) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:26:56.849-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:26:56.850-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:26:56.850-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:26:56.861-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:26:56.881-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:26:56.881-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:26:56.903-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:26:56.903-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:26:56.927-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.090 seconds
+[2023-08-03T16:27:30.652-0500] {processor.py:157} INFO - Started process (PID=15643) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:27:30.660-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:27:30.662-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:27:30.661-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:27:30.675-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:27:30.694-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:27:30.694-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:27:30.716-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:27:30.716-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:27:30.738-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.090 seconds
+[2023-08-03T16:28:03.539-0500] {processor.py:157} INFO - Started process (PID=15684) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:28:03.548-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:28:03.552-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:28:03.550-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:28:03.575-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:28:03.595-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:28:03.595-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:28:03.618-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:28:03.618-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:28:03.641-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.105 seconds
+[2023-08-03T16:28:36.574-0500] {processor.py:157} INFO - Started process (PID=15716) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:28:36.583-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:28:36.586-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:28:36.585-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:28:36.615-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:28:36.638-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:28:36.638-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:28:36.663-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:28:36.663-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:28:36.691-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.123 seconds
+[2023-08-03T16:29:09.484-0500] {processor.py:157} INFO - Started process (PID=15754) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:29:09.492-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:29:09.494-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:29:09.493-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:29:09.506-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:29:09.525-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:29:09.525-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:29:09.547-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:29:09.547-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:29:09.570-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.090 seconds
+[2023-08-03T16:29:43.026-0500] {processor.py:157} INFO - Started process (PID=15797) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:29:43.032-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:29:43.034-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:29:43.033-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:29:43.046-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:29:43.068-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:29:43.068-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:29:43.098-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:29:43.098-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:29:43.128-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.106 seconds
+[2023-08-03T16:30:21.847-0500] {processor.py:157} INFO - Started process (PID=15847) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:30:21.856-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:30:21.858-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:30:21.857-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:30:21.870-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:30:21.896-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:30:21.896-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:30:21.926-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:30:21.926-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:30:21.960-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.116 seconds
+[2023-08-03T16:31:01.824-0500] {processor.py:157} INFO - Started process (PID=15962) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:31:01.832-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:31:01.833-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:31:01.833-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:31:01.843-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:31:01.862-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:31:01.862-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:31:01.885-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:31:01.884-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:31:01.904-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.083 seconds
+[2023-08-03T16:31:39.906-0500] {processor.py:157} INFO - Started process (PID=16030) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:31:39.914-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:31:39.918-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:31:39.917-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:31:39.937-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:31:39.957-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:31:39.957-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:31:39.980-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:31:39.980-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:31:40.003-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.101 seconds
+[2023-08-03T16:32:15.942-0500] {processor.py:157} INFO - Started process (PID=16092) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:32:15.950-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:32:15.952-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:32:15.951-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:32:15.968-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:32:15.990-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:32:15.990-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:32:16.024-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:32:16.024-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:32:16.053-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.114 seconds
+[2023-08-03T16:32:52.016-0500] {processor.py:157} INFO - Started process (PID=16132) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:32:52.025-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:32:52.027-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:32:52.026-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:32:52.040-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:32:52.066-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:32:52.066-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:32:52.100-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:32:52.099-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:32:52.129-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.116 seconds
+[2023-08-03T16:33:27.663-0500] {processor.py:157} INFO - Started process (PID=16165) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:33:27.670-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:33:27.671-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:33:27.671-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:33:27.685-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:33:27.710-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:33:27.709-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:33:27.739-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:33:27.739-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:33:27.771-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.112 seconds
+[2023-08-03T16:34:01.014-0500] {processor.py:157} INFO - Started process (PID=16208) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:34:01.022-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:34:01.023-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:34:01.023-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:34:01.034-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:34:01.062-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:34:01.061-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:34:01.087-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:34:01.087-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:34:01.113-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.103 seconds
+[2023-08-03T16:34:37.047-0500] {processor.py:157} INFO - Started process (PID=16260) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:34:37.058-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:34:37.061-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:34:37.060-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:34:37.096-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:34:37.144-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:34:37.144-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:34:37.170-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:34:37.170-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:34:37.192-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.156 seconds
+[2023-08-03T16:35:14.898-0500] {processor.py:157} INFO - Started process (PID=16510) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:35:14.899-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:35:14.900-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:35:14.900-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:35:14.910-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:35:14.930-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:35:14.929-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:35:14.954-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:35:14.954-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:35:15.113-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.219 seconds
+[2023-08-03T16:35:53.302-0500] {processor.py:157} INFO - Started process (PID=16599) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:35:53.310-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:35:53.311-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:35:53.310-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:35:53.323-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:35:53.344-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:35:53.344-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:35:53.376-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:35:53.376-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:35:53.408-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.111 seconds
+[2023-08-03T16:36:33.277-0500] {processor.py:157} INFO - Started process (PID=17468) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:36:33.287-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:36:33.288-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:36:33.288-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:36:33.299-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:36:33.326-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:36:33.326-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:36:33.358-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:36:33.357-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:36:33.394-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.121 seconds
+[2023-08-03T16:37:10.592-0500] {processor.py:157} INFO - Started process (PID=17515) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:37:10.600-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:37:10.602-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:37:10.601-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:37:10.621-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:37:10.647-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:37:10.647-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:37:10.672-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:37:10.672-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:37:10.830-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.247 seconds
+[2023-08-03T16:37:47.540-0500] {processor.py:157} INFO - Started process (PID=17558) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:37:47.555-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:37:47.557-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:37:47.556-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:37:47.579-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:37:47.620-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:37:47.619-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:37:47.647-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:37:47.647-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:37:47.672-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.141 seconds
+[2023-08-03T16:38:30.953-0500] {processor.py:157} INFO - Started process (PID=17609) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:38:30.964-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:38:30.967-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:38:30.966-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:38:31.004-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:38:31.034-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:38:31.034-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:38:31.060-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:38:31.060-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:38:31.082-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.143 seconds
+[2023-08-03T16:40:02.423-0500] {processor.py:157} INFO - Started process (PID=17718) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:40:02.435-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:40:02.441-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:40:02.439-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:40:02.548-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:40:02.689-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:40:02.687-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:40:03.494-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:40:03.492-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:40:03.664-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 1.259 seconds
+[2023-08-03T16:42:08.304-0500] {processor.py:157} INFO - Started process (PID=17869) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:42:08.318-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:42:08.332-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:42:08.329-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:42:08.445-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:42:08.588-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:42:08.587-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:42:08.733-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:42:08.732-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:42:08.839-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.563 seconds
+[2023-08-03T16:43:28.461-0500] {processor.py:157} INFO - Started process (PID=17934) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:43:28.473-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:43:28.478-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:43:28.476-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:43:28.534-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:43:28.636-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:43:28.635-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:43:28.763-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:43:28.762-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:43:29.349-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.907 seconds
+[2023-08-03T16:44:19.113-0500] {processor.py:157} INFO - Started process (PID=17980) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:44:19.121-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:44:19.124-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:44:19.123-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:44:19.148-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:44:19.167-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:44:19.167-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:44:19.187-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:44:19.187-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:44:19.205-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.095 seconds
+[2023-08-03T16:44:54.036-0500] {processor.py:157} INFO - Started process (PID=18023) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:44:54.043-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:44:54.044-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:44:54.044-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:44:54.052-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:44:54.069-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:44:54.068-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:44:54.088-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:44:54.088-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:44:54.106-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.074 seconds
+[2023-08-03T16:45:27.912-0500] {processor.py:157} INFO - Started process (PID=18058) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:45:27.920-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:45:27.921-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:45:27.920-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:45:27.930-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:45:27.946-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:45:27.946-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:45:27.965-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:45:27.965-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:45:28.084-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.175 seconds
+[2023-08-03T16:46:03.817-0500] {processor.py:157} INFO - Started process (PID=18100) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:46:03.824-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:46:03.825-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:46:03.825-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:46:03.836-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:46:03.857-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:46:03.856-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:46:03.876-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:46:03.876-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:46:03.895-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.081 seconds
+[2023-08-03T16:46:38.248-0500] {processor.py:157} INFO - Started process (PID=18136) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:46:38.258-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:46:38.260-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:46:38.259-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:46:38.279-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:46:38.299-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:46:38.299-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:46:38.319-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:46:38.318-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:46:38.337-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.095 seconds
+[2023-08-03T16:47:51.522-0500] {processor.py:157} INFO - Started process (PID=18245) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:47:51.529-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:47:51.531-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:47:51.531-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:47:51.542-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:47:51.564-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:47:51.564-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:47:51.740-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:47:51.739-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:47:51.761-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.242 seconds
+[2023-08-03T16:48:40.378-0500] {processor.py:157} INFO - Started process (PID=18319) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:48:40.386-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:48:40.388-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:48:40.387-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:48:40.402-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:48:40.425-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:48:40.425-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:48:40.454-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:48:40.454-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:48:40.483-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.110 seconds
+[2023-08-03T16:49:21.312-0500] {processor.py:157} INFO - Started process (PID=18372) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:49:21.321-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:49:21.323-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:49:21.322-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:49:21.342-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:49:21.379-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:49:21.378-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:49:21.413-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:49:21.413-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:49:21.667-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.359 seconds
+[2023-08-03T16:50:06.768-0500] {processor.py:157} INFO - Started process (PID=18461) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:50:06.778-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:50:06.782-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:50:06.780-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:50:06.816-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:50:06.847-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:50:06.846-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:50:06.994-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:50:06.994-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:50:07.013-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.256 seconds
+[2023-08-03T16:50:46.743-0500] {processor.py:157} INFO - Started process (PID=18520) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:50:46.753-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:50:46.756-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:50:46.755-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:50:46.796-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:50:46.837-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:50:46.837-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:50:46.872-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:50:46.872-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:50:46.906-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.175 seconds
+[2023-08-03T16:51:24.843-0500] {processor.py:157} INFO - Started process (PID=18615) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:51:24.849-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T16:51:24.850-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:51:24.850-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:51:24.860-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T16:51:24.888-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:51:24.888-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T16:51:24.911-0500] {logging_mixin.py:150} INFO - [2023-08-03T16:51:24.911-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T16:51:25.066-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.226 seconds
+[2023-08-03T17:59:55.320-0500] {processor.py:157} INFO - Started process (PID=19147) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T17:59:55.328-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T17:59:55.330-0500] {logging_mixin.py:150} INFO - [2023-08-03T17:59:55.329-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T17:59:55.341-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T17:59:55.364-0500] {logging_mixin.py:150} INFO - [2023-08-03T17:59:55.364-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T17:59:55.582-0500] {logging_mixin.py:150} INFO - [2023-08-03T17:59:55.582-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T17:59:55.623-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.307 seconds
+[2023-08-03T18:00:39.395-0500] {processor.py:157} INFO - Started process (PID=19236) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:00:39.402-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:00:39.404-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:00:39.403-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:00:39.419-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:00:39.449-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:00:39.449-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:00:39.485-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:00:39.484-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:00:39.516-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.129 seconds
+[2023-08-03T18:01:20.658-0500] {processor.py:157} INFO - Started process (PID=20153) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:01:20.666-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:01:20.667-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:01:20.666-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:01:20.677-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:01:20.696-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:01:20.696-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:01:20.719-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:01:20.719-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:01:20.740-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.085 seconds
+[2023-08-03T18:01:53.953-0500] {processor.py:157} INFO - Started process (PID=20193) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:01:53.960-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:01:53.961-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:01:53.961-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:01:53.971-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:01:53.999-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:01:53.998-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:01:54.018-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:01:54.018-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:01:54.037-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.087 seconds
+[2023-08-03T18:02:53.730-0500] {processor.py:157} INFO - Started process (PID=20265) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:02:53.738-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:02:53.739-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:02:53.738-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:02:53.748-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:02:53.767-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:02:53.766-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:02:53.788-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:02:53.788-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:02:53.807-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.081 seconds
+[2023-08-03T18:03:27.148-0500] {processor.py:157} INFO - Started process (PID=20297) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:03:27.158-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:03:27.160-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:03:27.159-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:03:27.182-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:03:27.200-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:03:27.200-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:03:27.219-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:03:27.219-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:03:27.239-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.097 seconds
+[2023-08-03T18:04:00.661-0500] {processor.py:157} INFO - Started process (PID=20337) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:04:00.669-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:04:00.671-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:04:00.670-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:04:00.685-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:04:00.704-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:04:00.704-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:04:00.724-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:04:00.723-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:04:00.744-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.087 seconds
+[2023-08-03T18:04:34.852-0500] {processor.py:157} INFO - Started process (PID=20381) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:04:34.860-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:04:34.861-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:04:34.860-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:04:34.872-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:04:34.893-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:04:34.893-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:04:34.921-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:04:34.921-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:04:34.948-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.101 seconds
+[2023-08-03T18:05:09.842-0500] {processor.py:157} INFO - Started process (PID=20428) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:05:09.850-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:05:09.851-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:05:09.850-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:05:09.861-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:05:09.879-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:05:09.879-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:05:09.899-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:05:09.899-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:05:09.919-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.080 seconds
+[2023-08-03T18:05:43.521-0500] {processor.py:157} INFO - Started process (PID=20463) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:05:43.530-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:05:43.532-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:05:43.531-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:05:43.551-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:05:43.570-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:05:43.570-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:05:43.590-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:05:43.589-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:05:43.609-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.095 seconds
+[2023-08-03T18:06:16.001-0500] {processor.py:157} INFO - Started process (PID=20502) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:06:16.009-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:06:16.011-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:06:16.010-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:06:16.025-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:06:16.045-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:06:16.045-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:06:16.065-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:06:16.065-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:06:16.083-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.087 seconds
+[2023-08-03T18:06:49.570-0500] {processor.py:157} INFO - Started process (PID=20534) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:06:49.579-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:06:49.581-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:06:49.580-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:06:49.599-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:06:49.619-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:06:49.618-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:06:49.638-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:06:49.638-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:06:49.657-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.093 seconds
+[2023-08-03T18:07:53.529-0500] {processor.py:157} INFO - Started process (PID=20610) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:07:53.536-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:07:53.538-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:07:53.537-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:07:53.551-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:07:53.575-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:07:53.575-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:07:53.603-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:07:53.603-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:07:53.625-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.100 seconds
+[2023-08-03T18:08:27.893-0500] {processor.py:157} INFO - Started process (PID=20722) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:08:27.900-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:08:27.901-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:08:27.901-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:08:27.911-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:08:27.930-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:08:27.930-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:08:27.954-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:08:27.954-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:08:27.981-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.091 seconds
+[2023-08-03T18:09:00.452-0500] {processor.py:157} INFO - Started process (PID=20764) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:09:00.462-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:09:00.463-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:09:00.463-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:09:00.476-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:09:00.496-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:09:00.496-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:09:00.533-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:09:00.533-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:09:00.611-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.171 seconds
+[2023-08-03T18:09:39.402-0500] {processor.py:157} INFO - Started process (PID=20827) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:09:39.403-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:09:39.404-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:09:39.403-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:09:39.413-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:09:39.431-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:09:39.430-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:09:39.453-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:09:39.452-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:09:39.479-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.080 seconds
+[2023-08-03T18:12:02.269-0500] {processor.py:157} INFO - Started process (PID=21227) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:12:02.279-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:12:02.282-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:12:02.280-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:12:02.309-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:12:02.333-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:12:02.332-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:12:02.357-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:12:02.356-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:12:02.383-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.125 seconds
+[2023-08-03T18:15:13.335-0500] {processor.py:157} INFO - Started process (PID=21621) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:15:13.351-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:15:13.353-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:15:13.352-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:15:13.373-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:15:13.401-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:15:13.401-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:15:13.421-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:15:13.421-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:15:13.440-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.112 seconds
+[2023-08-03T18:16:07.557-0500] {processor.py:157} INFO - Started process (PID=21688) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:16:07.565-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:16:07.566-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:16:07.565-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:16:07.577-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:16:07.597-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:16:07.597-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:16:07.620-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:16:07.620-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:16:07.642-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.088 seconds
+[2023-08-03T18:17:14.255-0500] {processor.py:157} INFO - Started process (PID=21794) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:17:14.277-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:17:14.278-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:17:14.278-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:17:14.310-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:17:14.335-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:17:14.335-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:17:14.365-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:17:14.365-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:17:14.392-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.146 seconds
+[2023-08-03T18:17:57.016-0500] {processor.py:157} INFO - Started process (PID=21862) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:17:57.025-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:17:57.026-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:17:57.026-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:17:57.041-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:17:57.069-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:17:57.069-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:17:57.103-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:17:57.102-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:17:57.132-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.123 seconds
+[2023-08-03T18:18:34.912-0500] {processor.py:157} INFO - Started process (PID=21915) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:18:34.920-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:18:34.927-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:18:34.926-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:18:34.954-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:18:35.000-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:18:34.999-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:18:35.049-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:18:35.048-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:18:35.083-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.177 seconds
+[2023-08-03T18:19:11.794-0500] {processor.py:157} INFO - Started process (PID=22008) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:19:11.802-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:19:11.804-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:19:11.804-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:19:11.821-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:19:11.849-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:19:11.849-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:19:11.881-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:19:11.881-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:19:11.919-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.129 seconds
+[2023-08-03T18:19:46.455-0500] {processor.py:157} INFO - Started process (PID=22042) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:19:46.464-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:19:46.465-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:19:46.464-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:19:46.479-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:19:46.508-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:19:46.507-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:19:46.540-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:19:46.540-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:19:46.574-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.122 seconds
+[2023-08-03T18:20:23.544-0500] {processor.py:157} INFO - Started process (PID=22091) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:20:23.551-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:20:23.552-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:20:23.552-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:20:23.568-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:20:23.591-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:20:23.590-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:20:23.619-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:20:23.618-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:20:23.643-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.103 seconds
+[2023-08-03T18:21:00.080-0500] {processor.py:157} INFO - Started process (PID=22152) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:21:00.087-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:21:00.088-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:21:00.088-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:21:00.102-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:21:00.127-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:21:00.127-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:21:00.156-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:21:00.156-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:21:00.178-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.106 seconds
+[2023-08-03T18:21:37.849-0500] {processor.py:157} INFO - Started process (PID=22201) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:21:37.857-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:21:37.859-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:21:37.858-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:21:37.882-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:21:37.905-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:21:37.905-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:21:37.931-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:21:37.930-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:21:37.956-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.111 seconds
+[2023-08-03T18:22:34.025-0500] {processor.py:157} INFO - Started process (PID=22242) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:22:34.037-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:22:34.043-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:22:34.041-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:22:34.097-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:22:34.199-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:22:34.198-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:22:34.321-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:22:34.320-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:22:34.425-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.419 seconds
+[2023-08-03T18:23:22.359-0500] {processor.py:157} INFO - Started process (PID=22292) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:23:22.366-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:23:22.368-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:23:22.367-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:23:22.379-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:23:22.399-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:23:22.399-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:23:22.418-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:23:22.418-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:23:22.439-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.083 seconds
+[2023-08-03T18:24:27.335-0500] {processor.py:157} INFO - Started process (PID=22367) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:24:27.343-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:24:27.344-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:24:27.344-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:24:27.356-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:24:27.376-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:24:27.376-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:24:27.395-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:24:27.395-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:24:27.416-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.084 seconds
+[2023-08-03T18:25:33.514-0500] {processor.py:157} INFO - Started process (PID=22446) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:25:33.521-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:25:33.523-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:25:33.522-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:25:33.534-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:25:33.553-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:25:33.553-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:25:33.573-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:25:33.572-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:25:33.593-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.082 seconds
+[2023-08-03T18:26:42.303-0500] {processor.py:157} INFO - Started process (PID=22532) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:26:42.311-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:26:42.314-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:26:42.313-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:26:42.341-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:26:42.362-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:26:42.362-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:26:42.383-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:26:42.382-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:26:42.404-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.103 seconds
+[2023-08-03T18:27:47.625-0500] {processor.py:157} INFO - Started process (PID=22607) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:27:47.633-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:27:47.634-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:27:47.633-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:27:47.643-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:27:47.659-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:27:47.659-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:27:47.678-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:27:47.678-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:27:47.698-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.078 seconds
+[2023-08-03T18:28:51.535-0500] {processor.py:157} INFO - Started process (PID=22706) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:28:51.543-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:28:51.545-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:28:51.544-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:28:51.570-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:28:51.590-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:28:51.589-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:28:51.609-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:28:51.608-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:28:51.627-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.095 seconds
+[2023-08-03T18:29:28.452-0500] {processor.py:157} INFO - Started process (PID=22744) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:29:28.460-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:29:28.461-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:29:28.461-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:29:28.471-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:29:28.489-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:29:28.489-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:29:28.508-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:29:28.508-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:29:28.530-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.081 seconds
+[2023-08-03T18:30:07.008-0500] {processor.py:157} INFO - Started process (PID=22792) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:30:07.023-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:30:07.024-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:30:07.023-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:30:07.036-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:30:07.056-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:30:07.056-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:30:07.076-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:30:07.076-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:30:07.095-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.090 seconds
+[2023-08-03T18:31:13.154-0500] {processor.py:157} INFO - Started process (PID=22866) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:31:13.162-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:31:13.163-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:31:13.162-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:31:13.174-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:31:13.194-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:31:13.193-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:31:13.213-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:31:13.212-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:31:13.233-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.082 seconds
+[2023-08-03T18:31:47.366-0500] {processor.py:157} INFO - Started process (PID=22900) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:31:47.374-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:31:47.377-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:31:47.376-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:31:47.404-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:31:47.426-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:31:47.426-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:31:47.446-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:31:47.446-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:31:47.466-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.103 seconds
+[2023-08-03T18:32:22.151-0500] {processor.py:157} INFO - Started process (PID=22943) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:32:22.159-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:32:22.160-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:32:22.160-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:32:22.171-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:32:22.191-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:32:22.191-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:32:22.211-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:32:22.210-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:32:22.229-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.081 seconds
+[2023-08-03T18:33:26.793-0500] {processor.py:157} INFO - Started process (PID=23016) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:33:26.802-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:33:26.805-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:33:26.804-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:33:26.830-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:33:26.850-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:33:26.850-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:33:26.870-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:33:26.870-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:33:26.890-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.103 seconds
+[2023-08-03T18:34:01.888-0500] {processor.py:157} INFO - Started process (PID=23056) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:34:01.896-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:34:01.897-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:34:01.897-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:34:01.906-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:34:01.922-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:34:01.922-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:34:01.945-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:34:01.945-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:34:01.964-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.079 seconds
+[2023-08-03T18:35:07.371-0500] {processor.py:157} INFO - Started process (PID=23132) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:35:07.378-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:35:07.380-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:35:07.379-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:35:07.391-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:35:07.410-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:35:07.410-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:35:07.430-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:35:07.430-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:35:07.450-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.082 seconds
+[2023-08-03T18:36:15.489-0500] {processor.py:157} INFO - Started process (PID=23208) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:36:15.497-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:36:15.498-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:36:15.498-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:36:15.509-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:36:15.529-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:36:15.529-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:36:15.549-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:36:15.548-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:36:15.569-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.082 seconds
+[2023-08-03T18:37:18.107-0500] {processor.py:157} INFO - Started process (PID=23284) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:37:18.115-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:37:18.117-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:37:18.116-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:37:18.143-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:37:18.163-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:37:18.163-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:37:18.182-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:37:18.182-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:37:18.201-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.098 seconds
+[2023-08-03T18:38:26.030-0500] {processor.py:157} INFO - Started process (PID=23373) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:38:26.037-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:38:26.038-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:38:26.038-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:38:26.047-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:38:26.064-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:38:26.063-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:38:26.083-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:38:26.083-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:38:26.102-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.076 seconds
+[2023-08-03T18:39:30.688-0500] {processor.py:157} INFO - Started process (PID=23446) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:39:30.696-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:39:30.696-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:39:30.696-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:39:30.706-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:39:30.723-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:39:30.723-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:39:30.743-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:39:30.743-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:39:30.762-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.077 seconds
+[2023-08-03T18:40:53.624-0500] {processor.py:157} INFO - Started process (PID=23637) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:40:53.632-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:40:53.633-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:40:53.633-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:40:53.645-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:40:53.668-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:40:53.667-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:40:53.695-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:40:53.695-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:40:53.724-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.103 seconds
+[2023-08-03T18:41:53.906-0500] {processor.py:157} INFO - Started process (PID=23708) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:41:53.915-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:41:53.918-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:41:53.917-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:41:53.941-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:41:53.963-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:41:53.963-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:41:53.983-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:41:53.983-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:41:54.002-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.102 seconds
+[2023-08-03T18:42:30.161-0500] {processor.py:157} INFO - Started process (PID=23750) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:42:30.169-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:42:30.170-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:42:30.170-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:42:30.188-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:42:30.213-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:42:30.213-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:42:30.242-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:42:30.241-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:42:30.278-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.120 seconds
+[2023-08-03T18:43:05.344-0500] {processor.py:157} INFO - Started process (PID=23798) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:43:05.353-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:43:05.354-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:43:05.354-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:43:05.368-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:43:05.399-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:43:05.399-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:43:05.436-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:43:05.436-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:43:05.473-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.134 seconds
+[2023-08-03T18:43:43.478-0500] {processor.py:157} INFO - Started process (PID=23837) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:43:43.486-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:43:43.487-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:43:43.487-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:43:43.498-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:43:43.524-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:43:43.524-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:43:43.556-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:43:43.556-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:43:43.593-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.119 seconds
+[2023-08-03T18:44:21.030-0500] {processor.py:157} INFO - Started process (PID=23880) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:44:21.037-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:44:21.041-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:44:21.038-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:44:21.056-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:44:21.080-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:44:21.080-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:44:21.114-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:44:21.114-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:44:21.146-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.120 seconds
+[2023-08-03T18:44:56.335-0500] {processor.py:157} INFO - Started process (PID=23931) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:44:56.342-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:44:56.343-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:44:56.343-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:44:56.360-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:44:56.384-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:44:56.383-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:44:56.412-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:44:56.411-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:44:56.438-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.107 seconds
+[2023-08-03T18:45:33.388-0500] {processor.py:157} INFO - Started process (PID=23975) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:45:33.396-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:45:33.397-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:45:33.397-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:45:33.411-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:45:33.435-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:45:33.434-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:45:33.468-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:45:33.468-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:45:33.498-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.118 seconds
+[2023-08-03T18:46:13.136-0500] {processor.py:157} INFO - Started process (PID=24014) to work on /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:46:13.144-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/ExternalSensor2.py for tasks to queue
+[2023-08-03T18:46:13.145-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:46:13.144-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:46:13.160-0500] {processor.py:836} INFO - DAG(s) dict_keys(['externalTaskSensor2']) retrieved from /home/joha/airflow/dags/ExternalSensor2.py
+[2023-08-03T18:46:13.181-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:46:13.181-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-03T18:46:13.200-0500] {logging_mixin.py:150} INFO - [2023-08-03T18:46:13.200-0500] {dag.py:3504} INFO - Setting next_dagrun for externalTaskSensor2 to 2022-08-21T00:00:00+00:00, run_after=2022-08-22T00:00:00+00:00
+[2023-08-03T18:46:13.220-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/ExternalSensor2.py took 0.089 seconds

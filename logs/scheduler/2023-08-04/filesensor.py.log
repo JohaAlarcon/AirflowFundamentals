@@ -1,0 +1,18 @@
+[2023-08-04T09:36:16.738-0500] {processor.py:157} INFO - Started process (PID=24711) to work on /home/joha/airflow/dags/filesensor.py
+[2023-08-04T09:36:16.740-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/filesensor.py for tasks to queue
+[2023-08-04T09:36:16.743-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:16.742-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/filesensor.py
+[2023-08-04T09:36:16.765-0500] {processor.py:836} INFO - DAG(s) dict_keys(['filesensor']) retrieved from /home/joha/airflow/dags/filesensor.py
+[2023-08-04T09:36:16.788-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:16.788-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-04T09:36:17.167-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/filesensor.py took 0.434 seconds
+[2023-08-04T09:37:03.539-0500] {processor.py:157} INFO - Started process (PID=24969) to work on /home/joha/airflow/dags/filesensor.py
+[2023-08-04T09:37:03.546-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/filesensor.py for tasks to queue
+[2023-08-04T09:37:03.547-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:03.547-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/filesensor.py
+[2023-08-04T09:37:03.557-0500] {processor.py:836} INFO - DAG(s) dict_keys(['filesensor']) retrieved from /home/joha/airflow/dags/filesensor.py
+[2023-08-04T09:37:03.573-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:03.573-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-04T09:37:03.611-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/filesensor.py took 0.076 seconds
+[2023-08-04T09:37:38.259-0500] {processor.py:157} INFO - Started process (PID=25095) to work on /home/joha/airflow/dags/filesensor.py
+[2023-08-04T09:37:38.267-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/filesensor.py for tasks to queue
+[2023-08-04T09:37:38.268-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:38.267-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/filesensor.py
+[2023-08-04T09:37:38.278-0500] {processor.py:836} INFO - DAG(s) dict_keys(['filesensor']) retrieved from /home/joha/airflow/dags/filesensor.py
+[2023-08-04T09:37:38.297-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:38.296-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-04T09:37:38.340-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/filesensor.py took 0.085 seconds

@@ -1,0 +1,16 @@
+[2023-08-03T16:19:09.079-0500] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: filesensor.waiting_file scheduled__2022-08-22T00:00:00+00:00 [queued]>
+[2023-08-03T16:19:09.177-0500] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: filesensor.waiting_file scheduled__2022-08-22T00:00:00+00:00 [queued]>
+[2023-08-03T16:19:09.180-0500] {taskinstance.py:1308} INFO - Starting attempt 1 of 1
+[2023-08-03T16:19:09.412-0500] {taskinstance.py:1327} INFO - Executing <Task(FileSensor): waiting_file> on 2022-08-22 00:00:00+00:00
+[2023-08-03T16:19:09.488-0500] {standard_task_runner.py:57} INFO - Started process 15000 to run task
+[2023-08-03T16:19:09.552-0500] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'filesensor', 'waiting_file', 'scheduled__2022-08-22T00:00:00+00:00', '--job-id', '971', '--raw', '--subdir', 'DAGS_FOLDER/filesensor.py', '--cfg-path', '/tmp/tmpd86uvqh6']
+[2023-08-03T16:19:09.565-0500] {standard_task_runner.py:85} INFO - Job 971: Subtask waiting_file
+[2023-08-03T16:19:09.931-0500] {task_command.py:410} INFO - Running <TaskInstance: filesensor.waiting_file scheduled__2022-08-22T00:00:00+00:00 [running]> on host pop-os.localdomain
+[2023-08-03T16:19:11.692-0500] {taskinstance.py:1545} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='filesensor' AIRFLOW_CTX_TASK_ID='waiting_file' AIRFLOW_CTX_EXECUTION_DATE='2022-08-22T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2022-08-22T00:00:00+00:00'
+[2023-08-03T16:19:11.731-0500] {base.py:73} INFO - Using connection ID 'fs_default' for task execution.
+[2023-08-03T16:19:11.736-0500] {filesystem.py:64} INFO - Poking for file /tmp/file.txt
+[2023-08-03T16:19:11.738-0500] {filesystem.py:69} INFO - Found File /tmp/file.txt last modified: 20230803161833
+[2023-08-03T16:19:11.739-0500] {base.py:255} INFO - Success criteria met. Exiting.
+[2023-08-03T16:19:11.787-0500] {taskinstance.py:1345} INFO - Marking task as SUCCESS. dag_id=filesensor, task_id=waiting_file, execution_date=20220822T000000, start_date=20230803T211909, end_date=20230803T211911
+[2023-08-03T16:19:11.960-0500] {local_task_job_runner.py:225} INFO - Task exited with return code 0
+[2023-08-03T16:19:12.151-0500] {taskinstance.py:2653} INFO - 1 downstream tasks scheduled from follow-on schedule check

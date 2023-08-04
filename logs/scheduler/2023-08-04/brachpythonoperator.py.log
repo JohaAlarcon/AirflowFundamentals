@@ -1,0 +1,28 @@
+[2023-08-04T09:35:33.264-0500] {processor.py:157} INFO - Started process (PID=24638) to work on /home/joha/airflow/dags/brachpythonoperator.py
+[2023-08-04T09:35:33.265-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/brachpythonoperator.py for tasks to queue
+[2023-08-04T09:35:33.266-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:35:33.266-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/brachpythonoperator.py
+[2023-08-04T09:35:33.280-0500] {processor.py:836} INFO - DAG(s) dict_keys(['10-branching']) retrieved from /home/joha/airflow/dags/brachpythonoperator.py
+[2023-08-04T09:35:33.391-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:35:33.390-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-04T09:35:33.427-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:35:33.426-0500] {dag.py:3504} INFO - Setting next_dagrun for 10-branching to None, run_after=None
+[2023-08-04T09:36:13.275-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/brachpythonoperator.py took 8.463 seconds
+[2023-08-04T09:37:00.584-0500] {processor.py:157} INFO - Started process (PID=24965) to work on /home/joha/airflow/dags/brachpythonoperator.py
+[2023-08-04T09:37:00.592-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/brachpythonoperator.py for tasks to queue
+[2023-08-04T09:37:00.594-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:00.593-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/brachpythonoperator.py
+[2023-08-04T09:37:00.609-0500] {processor.py:836} INFO - DAG(s) dict_keys(['10-branching']) retrieved from /home/joha/airflow/dags/brachpythonoperator.py
+[2023-08-04T09:37:00.628-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:00.628-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-04T09:37:00.647-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:00.647-0500] {dag.py:3504} INFO - Setting next_dagrun for 10-branching to None, run_after=None
+[2023-08-04T09:37:00.666-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/brachpythonoperator.py took 0.087 seconds
+[2023-08-04T09:37:35.347-0500] {processor.py:157} INFO - Started process (PID=25086) to work on /home/joha/airflow/dags/brachpythonoperator.py
+[2023-08-04T09:37:35.355-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/brachpythonoperator.py for tasks to queue
+[2023-08-04T09:37:35.357-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:35.356-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/brachpythonoperator.py
+[2023-08-04T09:37:35.371-0500] {processor.py:836} INFO - DAG(s) dict_keys(['10-branching']) retrieved from /home/joha/airflow/dags/brachpythonoperator.py
+[2023-08-04T09:37:35.392-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:35.392-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-04T09:37:35.411-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:35.411-0500] {dag.py:3504} INFO - Setting next_dagrun for 10-branching to None, run_after=None
+[2023-08-04T09:37:35.433-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/brachpythonoperator.py took 0.092 seconds
+[2023-08-04T09:38:10.784-0500] {processor.py:157} INFO - Started process (PID=26040) to work on /home/joha/airflow/dags/brachpythonoperator.py
+[2023-08-04T09:38:10.792-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/brachpythonoperator.py for tasks to queue
+[2023-08-04T09:38:10.793-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:38:10.792-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/brachpythonoperator.py
+[2023-08-04T09:38:10.805-0500] {processor.py:836} INFO - DAG(s) dict_keys(['10-branching']) retrieved from /home/joha/airflow/dags/brachpythonoperator.py
+[2023-08-04T09:38:10.827-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:38:10.827-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-04T09:38:10.857-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:38:10.857-0500] {dag.py:3504} INFO - Setting next_dagrun for 10-branching to None, run_after=None
+[2023-08-04T09:38:10.881-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/brachpythonoperator.py took 0.101 seconds

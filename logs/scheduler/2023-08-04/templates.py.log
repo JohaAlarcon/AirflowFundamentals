@@ -1,0 +1,21 @@
+[2023-08-04T09:36:15.180-0500] {processor.py:157} INFO - Started process (PID=24708) to work on /home/joha/airflow/dags/templates.py
+[2023-08-04T09:36:15.181-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/templates.py for tasks to queue
+[2023-08-04T09:36:15.183-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:15.182-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/templates.py
+[2023-08-04T09:36:15.196-0500] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/joha/airflow/dags/templates.py
+[2023-08-04T09:36:15.224-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:15.223-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-04T09:36:15.244-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:15.244-0500] {dag.py:3504} INFO - Setting next_dagrun for templating to 2022-08-14T00:00:00+00:00, run_after=2022-08-15T00:00:00+00:00
+[2023-08-04T09:36:15.663-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/templates.py took 0.488 seconds
+[2023-08-04T09:37:02.365-0500] {processor.py:157} INFO - Started process (PID=24968) to work on /home/joha/airflow/dags/templates.py
+[2023-08-04T09:37:02.366-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/templates.py for tasks to queue
+[2023-08-04T09:37:02.367-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:02.367-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/templates.py
+[2023-08-04T09:37:02.376-0500] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/joha/airflow/dags/templates.py
+[2023-08-04T09:37:02.394-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:02.394-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-04T09:37:02.413-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:02.413-0500] {dag.py:3504} INFO - Setting next_dagrun for templating to 2022-08-14T00:00:00+00:00, run_after=2022-08-15T00:00:00+00:00
+[2023-08-04T09:37:02.432-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/templates.py took 0.070 seconds
+[2023-08-04T09:37:37.079-0500] {processor.py:157} INFO - Started process (PID=25093) to work on /home/joha/airflow/dags/templates.py
+[2023-08-04T09:37:37.087-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/templates.py for tasks to queue
+[2023-08-04T09:37:37.088-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:37.088-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/templates.py
+[2023-08-04T09:37:37.098-0500] {processor.py:836} INFO - DAG(s) dict_keys(['templating']) retrieved from /home/joha/airflow/dags/templates.py
+[2023-08-04T09:37:37.118-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:37.118-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-04T09:37:37.139-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:37.139-0500] {dag.py:3504} INFO - Setting next_dagrun for templating to 2022-08-14T00:00:00+00:00, run_after=2022-08-15T00:00:00+00:00
+[2023-08-04T09:37:37.167-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/templates.py took 0.091 seconds

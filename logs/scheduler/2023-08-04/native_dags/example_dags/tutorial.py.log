@@ -1,0 +1,14 @@
+[2023-08-04T09:36:46.924-0500] {processor.py:157} INFO - Started process (PID=24944) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-08-04T09:36:46.925-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-04T09:36:46.925-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:46.925-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-08-04T09:36:46.933-0500] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-08-04T09:36:46.955-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:46.954-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-04T09:36:46.979-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:46.979-0500] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-03T14:36:46.979004+00:00, run_after=2023-08-04T14:36:46.979004+00:00
+[2023-08-04T09:36:47.009-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.089 seconds
+[2023-08-04T09:37:56.809-0500] {processor.py:157} INFO - Started process (PID=25125) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-08-04T09:37:56.817-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-08-04T09:37:56.818-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:56.817-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-08-04T09:37:56.825-0500] {processor.py:836} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-08-04T09:37:56.842-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:56.841-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-04T09:37:56.861-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:56.860-0500] {dag.py:3504} INFO - Setting next_dagrun for tutorial to 2023-08-03T14:37:56.860626+00:00, run_after=2023-08-04T14:37:56.860626+00:00
+[2023-08-04T09:37:56.880-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 0.074 seconds

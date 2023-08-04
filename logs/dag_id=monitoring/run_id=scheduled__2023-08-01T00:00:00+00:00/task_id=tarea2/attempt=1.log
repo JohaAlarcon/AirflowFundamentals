@@ -1,0 +1,48 @@
+[2023-08-03T13:46:28.554-0500] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: monitoring.tarea2 scheduled__2023-08-01T00:00:00+00:00 [queued]>
+[2023-08-03T13:46:28.620-0500] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: monitoring.tarea2 scheduled__2023-08-01T00:00:00+00:00 [queued]>
+[2023-08-03T13:46:28.621-0500] {taskinstance.py:1308} INFO - Starting attempt 1 of 1
+[2023-08-03T13:46:28.844-0500] {taskinstance.py:1327} INFO - Executing <Task(BashOperator): tarea2> on 2023-08-01 00:00:00+00:00
+[2023-08-03T13:46:28.927-0500] {standard_task_runner.py:57} INFO - Started process 25652 to run task
+[2023-08-03T13:46:28.961-0500] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'monitoring', 'tarea2', 'scheduled__2023-08-01T00:00:00+00:00', '--job-id', '937', '--raw', '--subdir', 'DAGS_FOLDER/monitoring.py', '--cfg-path', '/tmp/tmp4zq6nw9e']
+[2023-08-03T13:46:28.974-0500] {standard_task_runner.py:85} INFO - Job 937: Subtask tarea2
+[2023-08-03T13:46:29.460-0500] {task_command.py:410} INFO - Running <TaskInstance: monitoring.tarea2 scheduled__2023-08-01T00:00:00+00:00 [running]> on host pop-os.localdomain
+[2023-08-03T13:46:30.187-0500] {taskinstance.py:1545} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='monitoring' AIRFLOW_CTX_TASK_ID='tarea2' AIRFLOW_CTX_EXECUTION_DATE='2023-08-01T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2023-08-01T00:00:00+00:00'
+[2023-08-03T13:46:30.200-0500] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2023-08-03T13:46:30.204-0500] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', "sleep 2 && echo 'Tarea 2"]
+[2023-08-03T13:46:30.296-0500] {subprocess.py:86} INFO - Output:
+[2023-08-03T13:46:30.311-0500] {subprocess.py:93} INFO - /usr/bin/bash: -c: line 1: unexpected EOF while looking for matching `''
+[2023-08-03T13:46:30.313-0500] {subprocess.py:93} INFO - /usr/bin/bash: -c: line 2: syntax error: unexpected end of file
+[2023-08-03T13:46:30.316-0500] {subprocess.py:97} INFO - Command exited with return code 2
+[2023-08-03T13:46:30.387-0500] {taskinstance.py:1824} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/joha/anaconda3/lib/python3.10/site-packages/airflow/operators/bash.py", line 210, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 2.
+[2023-08-03T13:46:31.740-0500] {taskinstance.py:1345} INFO - Marking task as FAILED. dag_id=monitoring, task_id=tarea2, execution_date=20230801T000000, start_date=20230803T184628, end_date=20230803T184631
+[2023-08-03T13:46:31.928-0500] {standard_task_runner.py:104} ERROR - Failed to execute job 937 for task tarea2 (Bash command failed. The command returned a non-zero exit code 2.; 25652)
+[2023-08-03T13:46:32.236-0500] {local_task_job_runner.py:225} INFO - Task exited with return code 1
+[2023-08-03T13:46:32.545-0500] {taskinstance.py:2653} INFO - 0 downstream tasks scheduled from follow-on schedule check
+[2023-08-03T13:57:15.407-0500] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: monitoring.tarea2 scheduled__2023-08-01T00:00:00+00:00 [queued]>
+[2023-08-03T13:57:15.465-0500] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: monitoring.tarea2 scheduled__2023-08-01T00:00:00+00:00 [queued]>
+[2023-08-03T13:57:15.466-0500] {taskinstance.py:1308} INFO - Starting attempt 1 of 1
+[2023-08-03T13:57:15.557-0500] {taskinstance.py:1327} INFO - Executing <Task(BashOperator): tarea2> on 2023-08-01 00:00:00+00:00
+[2023-08-03T13:57:15.590-0500] {standard_task_runner.py:57} INFO - Started process 27130 to run task
+[2023-08-03T13:57:15.622-0500] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'monitoring', 'tarea2', 'scheduled__2023-08-01T00:00:00+00:00', '--job-id', '937', '--raw', '--subdir', 'DAGS_FOLDER/monitoring.py', '--cfg-path', '/tmp/tmpv4q9ofeh']
+[2023-08-03T13:57:15.633-0500] {standard_task_runner.py:85} INFO - Job 937: Subtask tarea2
+[2023-08-03T13:57:15.944-0500] {task_command.py:410} INFO - Running <TaskInstance: monitoring.tarea2 scheduled__2023-08-01T00:00:00+00:00 [running]> on host pop-os.localdomain
+[2023-08-03T13:57:16.507-0500] {taskinstance.py:1545} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='monitoring' AIRFLOW_CTX_TASK_ID='tarea2' AIRFLOW_CTX_EXECUTION_DATE='2023-08-01T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2023-08-01T00:00:00+00:00'
+[2023-08-03T13:57:16.522-0500] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2023-08-03T13:57:16.529-0500] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', "sleep 2 && echo 'Tarea 2"]
+[2023-08-03T13:57:16.657-0500] {subprocess.py:86} INFO - Output:
+[2023-08-03T13:57:16.667-0500] {subprocess.py:93} INFO - /usr/bin/bash: -c: line 1: unexpected EOF while looking for matching `''
+[2023-08-03T13:57:16.668-0500] {subprocess.py:93} INFO - /usr/bin/bash: -c: line 2: syntax error: unexpected end of file
+[2023-08-03T13:57:16.672-0500] {subprocess.py:97} INFO - Command exited with return code 2
+[2023-08-03T13:57:16.753-0500] {taskinstance.py:1824} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/joha/anaconda3/lib/python3.10/site-packages/airflow/operators/bash.py", line 210, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 2.
+[2023-08-03T13:57:17.561-0500] {taskinstance.py:1345} INFO - Marking task as FAILED. dag_id=monitoring, task_id=tarea2, execution_date=20230801T000000, start_date=20230803T185715, end_date=20230803T185717
+[2023-08-03T13:57:17.638-0500] {standard_task_runner.py:104} ERROR - Failed to execute job 937 for task tarea2 (Bash command failed. The command returned a non-zero exit code 2.; 27130)
+[2023-08-03T13:57:17.737-0500] {local_task_job_runner.py:225} INFO - Task exited with return code 1
+[2023-08-03T13:57:17.893-0500] {taskinstance.py:2653} INFO - 0 downstream tasks scheduled from follow-on schedule check

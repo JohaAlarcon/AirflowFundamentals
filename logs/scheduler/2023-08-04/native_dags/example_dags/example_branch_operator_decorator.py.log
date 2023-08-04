@@ -1,0 +1,14 @@
+[2023-08-04T09:36:53.666-0500] {processor.py:157} INFO - Started process (PID=24958) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2023-08-04T09:36:53.668-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py for tasks to queue
+[2023-08-04T09:36:53.670-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:53.669-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2023-08-04T09:36:53.689-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_python_operator_decorator']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2023-08-04T09:36:53.709-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:53.709-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-04T09:36:53.729-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:53.729-0500] {dag.py:3504} INFO - Setting next_dagrun for example_branch_python_operator_decorator to 2023-08-03T00:00:00+00:00, run_after=2023-08-04T00:00:00+00:00
+[2023-08-04T09:36:53.755-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py took 0.095 seconds
+[2023-08-04T09:38:03.011-0500] {processor.py:157} INFO - Started process (PID=25569) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2023-08-04T09:38:03.019-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py for tasks to queue
+[2023-08-04T09:38:03.020-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:38:03.020-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2023-08-04T09:38:03.039-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_branch_python_operator_decorator']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py
+[2023-08-04T09:38:03.063-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:38:03.063-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-04T09:38:03.084-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:38:03.084-0500] {dag.py:3504} INFO - Setting next_dagrun for example_branch_python_operator_decorator to 2023-08-03T00:00:00+00:00, run_after=2023-08-04T00:00:00+00:00
+[2023-08-04T09:38:03.106-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py took 0.100 seconds

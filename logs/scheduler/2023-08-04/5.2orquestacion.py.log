@@ -1,0 +1,14 @@
+[2023-08-04T09:36:24.009-0500] {processor.py:157} INFO - Started process (PID=24873) to work on /home/joha/airflow/dags/5.2orquestacion.py
+[2023-08-04T09:36:24.010-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/5.2orquestacion.py for tasks to queue
+[2023-08-04T09:36:24.012-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:24.011-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/5.2orquestacion.py
+[2023-08-04T09:36:24.026-0500] {processor.py:836} INFO - DAG(s) dict_keys(['orquestation2']) retrieved from /home/joha/airflow/dags/5.2orquestacion.py
+[2023-08-04T09:36:24.044-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:24.044-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-04T09:36:24.063-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:24.063-0500] {dag.py:3504} INFO - Setting next_dagrun for orquestation2 to None, run_after=None
+[2023-08-04T09:36:24.090-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/5.2orquestacion.py took 0.086 seconds
+[2023-08-04T09:37:08.095-0500] {processor.py:157} INFO - Started process (PID=24976) to work on /home/joha/airflow/dags/5.2orquestacion.py
+[2023-08-04T09:37:08.104-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/5.2orquestacion.py for tasks to queue
+[2023-08-04T09:37:08.105-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:08.105-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/5.2orquestacion.py
+[2023-08-04T09:37:08.121-0500] {processor.py:836} INFO - DAG(s) dict_keys(['orquestation2']) retrieved from /home/joha/airflow/dags/5.2orquestacion.py
+[2023-08-04T09:37:08.141-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:08.141-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-04T09:37:08.161-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:08.161-0500] {dag.py:3504} INFO - Setting next_dagrun for orquestation2 to None, run_after=None
+[2023-08-04T09:37:08.180-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/5.2orquestacion.py took 0.090 seconds

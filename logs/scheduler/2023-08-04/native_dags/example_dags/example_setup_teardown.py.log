@@ -1,0 +1,10 @@
+[2023-08-04T09:35:23.491-0500] {processor.py:157} INFO - Started process (PID=24518) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-08-04T09:35:23.492-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-08-04T09:35:23.493-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:35:23.493-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-08-04T09:35:23.496-0500] {processor.py:838} WARNING - No viable dags retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-08-04T09:35:23.510-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.024 seconds
+[2023-08-04T09:37:26.359-0500] {processor.py:157} INFO - Started process (PID=25067) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-08-04T09:37:26.368-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py for tasks to queue
+[2023-08-04T09:37:26.370-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:26.369-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-08-04T09:37:26.374-0500] {processor.py:838} WARNING - No viable dags retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py
+[2023-08-04T09:37:26.390-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_setup_teardown.py took 0.036 seconds

@@ -1,0 +1,14 @@
+[2023-08-04T09:36:32.863-0500] {processor.py:157} INFO - Started process (PID=24923) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-04T09:36:32.864-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-08-04T09:36:32.865-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:32.865-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-04T09:36:32.878-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-04T09:36:32.902-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:32.901-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-04T09:36:32.923-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:32.923-0500] {dag.py:3504} INFO - Setting next_dagrun for example_skip_dag to 2023-08-03T14:36:32.923018+00:00, run_after=2023-08-04T14:36:32.923018+00:00
+[2023-08-04T09:36:32.952-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.095 seconds
+[2023-08-04T09:37:43.398-0500] {processor.py:157} INFO - Started process (PID=25100) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-04T09:37:43.405-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py for tasks to queue
+[2023-08-04T09:37:43.406-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:43.406-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-04T09:37:43.413-0500] {processor.py:836} INFO - DAG(s) dict_keys(['example_skip_dag']) retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py
+[2023-08-04T09:37:43.431-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:43.431-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-04T09:37:43.450-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:43.450-0500] {dag.py:3504} INFO - Setting next_dagrun for example_skip_dag to 2023-08-03T14:37:43.449892+00:00, run_after=2023-08-04T14:37:43.449892+00:00
+[2023-08-04T09:37:43.471-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py took 0.076 seconds

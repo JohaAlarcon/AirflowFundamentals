@@ -1,0 +1,12 @@
+[2023-08-04T09:36:49.794-0500] {processor.py:157} INFO - Started process (PID=24947) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-08-04T09:36:49.795-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-08-04T09:36:49.796-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:49.796-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-08-04T09:36:49.964-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:49.964-0500] {utils.py:160} INFO - NumExpr defaulting to 4 threads.
+[2023-08-04T09:36:50.109-0500] {processor.py:838} WARNING - No viable dags retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-08-04T09:36:50.118-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.326 seconds
+[2023-08-04T09:38:00.207-0500] {processor.py:157} INFO - Started process (PID=25343) to work on /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-08-04T09:38:00.214-0500] {processor.py:826} INFO - Processing file /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-08-04T09:38:00.216-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:38:00.215-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-08-04T09:38:00.439-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:38:00.439-0500] {utils.py:160} INFO - NumExpr defaulting to 4 threads.
+[2023-08-04T09:38:00.602-0500] {processor.py:838} WARNING - No viable dags retrieved from /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-08-04T09:38:00.611-0500] {processor.py:179} INFO - Processing /home/joha/anaconda3/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.409 seconds

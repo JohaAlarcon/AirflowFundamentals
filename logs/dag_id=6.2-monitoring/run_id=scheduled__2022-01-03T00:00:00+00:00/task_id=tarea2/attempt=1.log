@@ -1,0 +1,17 @@
+[2023-08-03T15:16:17.102-0500] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: 6.2-monitoring.tarea2 scheduled__2022-01-03T00:00:00+00:00 [queued]>
+[2023-08-03T15:16:17.114-0500] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: 6.2-monitoring.tarea2 scheduled__2022-01-03T00:00:00+00:00 [queued]>
+[2023-08-03T15:16:17.114-0500] {taskinstance.py:1308} INFO - Starting attempt 1 of 3
+[2023-08-03T15:16:17.129-0500] {taskinstance.py:1327} INFO - Executing <Task(BashOperator): tarea2> on 2022-01-03 00:00:00+00:00
+[2023-08-03T15:16:17.135-0500] {standard_task_runner.py:57} INFO - Started process 10839 to run task
+[2023-08-03T15:16:17.140-0500] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', '6.2-monitoring', 'tarea2', 'scheduled__2022-01-03T00:00:00+00:00', '--job-id', '960', '--raw', '--subdir', 'DAGS_FOLDER/triggerrule.py', '--cfg-path', '/tmp/tmpbsevqary']
+[2023-08-03T15:16:17.141-0500] {standard_task_runner.py:85} INFO - Job 960: Subtask tarea2
+[2023-08-03T15:16:17.180-0500] {task_command.py:410} INFO - Running <TaskInstance: 6.2-monitoring.tarea2 scheduled__2022-01-03T00:00:00+00:00 [running]> on host pop-os.localdomain
+[2023-08-03T15:16:17.389-0500] {taskinstance.py:1545} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='6.2-monitoring' AIRFLOW_CTX_TASK_ID='tarea2' AIRFLOW_CTX_EXECUTION_DATE='2022-01-03T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2022-01-03T00:00:00+00:00'
+[2023-08-03T15:16:17.390-0500] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2023-08-03T15:16:17.391-0500] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', "sleep 3 && echo 'Segunda tarea!'"]
+[2023-08-03T15:16:17.403-0500] {subprocess.py:86} INFO - Output:
+[2023-08-03T15:16:20.407-0500] {subprocess.py:93} INFO - Segunda tarea!
+[2023-08-03T15:16:20.409-0500] {subprocess.py:97} INFO - Command exited with return code 0
+[2023-08-03T15:16:20.476-0500] {taskinstance.py:1345} INFO - Marking task as SUCCESS. dag_id=6.2-monitoring, task_id=tarea2, execution_date=20220103T000000, start_date=20230803T201617, end_date=20230803T201620
+[2023-08-03T15:16:20.538-0500] {local_task_job_runner.py:225} INFO - Task exited with return code 0
+[2023-08-03T15:16:20.567-0500] {taskinstance.py:2653} INFO - 0 downstream tasks scheduled from follow-on schedule check

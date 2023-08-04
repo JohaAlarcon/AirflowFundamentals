@@ -1,0 +1,14 @@
+[2023-08-04T09:36:22.848-0500] {processor.py:157} INFO - Started process (PID=24872) to work on /home/joha/airflow/dags/monitoring.py
+[2023-08-04T09:36:22.849-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/monitoring.py for tasks to queue
+[2023-08-04T09:36:22.850-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:22.849-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/monitoring.py
+[2023-08-04T09:36:22.861-0500] {processor.py:836} INFO - DAG(s) dict_keys(['monitoring']) retrieved from /home/joha/airflow/dags/monitoring.py
+[2023-08-04T09:36:22.880-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:22.879-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-04T09:36:22.901-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:22.900-0500] {dag.py:3504} INFO - Setting next_dagrun for monitoring to 2023-08-03T00:00:00+00:00, run_after=2023-08-04T00:00:00+00:00
+[2023-08-04T09:36:22.928-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/monitoring.py took 0.085 seconds
+[2023-08-04T09:37:06.929-0500] {processor.py:157} INFO - Started process (PID=24975) to work on /home/joha/airflow/dags/monitoring.py
+[2023-08-04T09:37:06.936-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/monitoring.py for tasks to queue
+[2023-08-04T09:37:06.938-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:06.937-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/monitoring.py
+[2023-08-04T09:37:06.950-0500] {processor.py:836} INFO - DAG(s) dict_keys(['monitoring']) retrieved from /home/joha/airflow/dags/monitoring.py
+[2023-08-04T09:37:06.969-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:06.969-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-04T09:37:06.988-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:06.988-0500] {dag.py:3504} INFO - Setting next_dagrun for monitoring to 2023-08-03T00:00:00+00:00, run_after=2023-08-04T00:00:00+00:00
+[2023-08-04T09:37:07.007-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/monitoring.py took 0.082 seconds

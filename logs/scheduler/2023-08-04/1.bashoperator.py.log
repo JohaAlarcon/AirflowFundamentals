@@ -1,0 +1,14 @@
+[2023-08-04T09:36:29.179-0500] {processor.py:157} INFO - Started process (PID=24910) to work on /home/joha/airflow/dags/1.bashoperator.py
+[2023-08-04T09:36:29.181-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/1.bashoperator.py for tasks to queue
+[2023-08-04T09:36:29.186-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:29.185-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/1.bashoperator.py
+[2023-08-04T09:36:29.198-0500] {processor.py:836} INFO - DAG(s) dict_keys(['bashoperator']) retrieved from /home/joha/airflow/dags/1.bashoperator.py
+[2023-08-04T09:36:29.218-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:29.218-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-04T09:36:29.239-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:29.239-0500] {dag.py:3504} INFO - Setting next_dagrun for bashoperator to 2023-08-01T00:00:00+00:00, run_after=2023-08-02T00:00:00+00:00
+[2023-08-04T09:36:29.267-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/1.bashoperator.py took 0.095 seconds
+[2023-08-04T09:37:14.793-0500] {processor.py:157} INFO - Started process (PID=25053) to work on /home/joha/airflow/dags/1.bashoperator.py
+[2023-08-04T09:37:14.801-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/1.bashoperator.py for tasks to queue
+[2023-08-04T09:37:14.802-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:14.802-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/1.bashoperator.py
+[2023-08-04T09:37:14.810-0500] {processor.py:836} INFO - DAG(s) dict_keys(['bashoperator']) retrieved from /home/joha/airflow/dags/1.bashoperator.py
+[2023-08-04T09:37:14.829-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:14.829-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-04T09:37:14.847-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:14.847-0500] {dag.py:3504} INFO - Setting next_dagrun for bashoperator to 2023-08-01T00:00:00+00:00, run_after=2023-08-02T00:00:00+00:00
+[2023-08-04T09:37:14.869-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/1.bashoperator.py took 0.081 seconds

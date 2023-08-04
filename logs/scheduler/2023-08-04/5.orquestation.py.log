@@ -1,0 +1,12 @@
+[2023-08-04T09:36:25.338-0500] {processor.py:157} INFO - Started process (PID=24875) to work on /home/joha/airflow/dags/5.orquestation.py
+[2023-08-04T09:36:25.339-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/5.orquestation.py for tasks to queue
+[2023-08-04T09:36:25.340-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:25.340-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/5.orquestation.py
+[2023-08-04T09:36:25.356-0500] {processor.py:836} INFO - DAG(s) dict_keys(['orquestation']) retrieved from /home/joha/airflow/dags/5.orquestation.py
+[2023-08-04T09:36:25.374-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:25.374-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-04T09:36:25.416-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/5.orquestation.py took 0.084 seconds
+[2023-08-04T09:37:10.401-0500] {processor.py:157} INFO - Started process (PID=24980) to work on /home/joha/airflow/dags/5.orquestation.py
+[2023-08-04T09:37:10.409-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/5.orquestation.py for tasks to queue
+[2023-08-04T09:37:10.410-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:10.410-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/5.orquestation.py
+[2023-08-04T09:37:10.421-0500] {processor.py:836} INFO - DAG(s) dict_keys(['orquestation']) retrieved from /home/joha/airflow/dags/5.orquestation.py
+[2023-08-04T09:37:10.446-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:10.445-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-04T09:37:10.494-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/5.orquestation.py took 0.096 seconds

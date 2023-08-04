@@ -1,0 +1,14 @@
+[2023-08-04T09:36:27.642-0500] {processor.py:157} INFO - Started process (PID=24902) to work on /home/joha/airflow/dags/3.dependencias.py
+[2023-08-04T09:36:27.643-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/3.dependencias.py for tasks to queue
+[2023-08-04T09:36:27.644-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:27.644-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/3.dependencias.py
+[2023-08-04T09:36:27.654-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/joha/airflow/dags/3.dependencias.py
+[2023-08-04T09:36:27.676-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:27.676-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-04T09:36:27.711-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:27.710-0500] {dag.py:3504} INFO - Setting next_dagrun for dependencies to 2022-08-01T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2023-08-04T09:36:27.747-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/3.dependencias.py took 0.109 seconds
+[2023-08-04T09:37:12.200-0500] {processor.py:157} INFO - Started process (PID=25048) to work on /home/joha/airflow/dags/3.dependencias.py
+[2023-08-04T09:37:12.208-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/3.dependencias.py for tasks to queue
+[2023-08-04T09:37:12.209-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:12.209-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/3.dependencias.py
+[2023-08-04T09:37:12.220-0500] {processor.py:836} INFO - DAG(s) dict_keys(['dependencies']) retrieved from /home/joha/airflow/dags/3.dependencias.py
+[2023-08-04T09:37:12.244-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:12.244-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-04T09:37:12.272-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:12.271-0500] {dag.py:3504} INFO - Setting next_dagrun for dependencies to 2022-08-01T00:00:00+00:00, run_after=2022-08-01T00:00:00+00:00
+[2023-08-04T09:37:12.304-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/3.dependencias.py took 0.108 seconds

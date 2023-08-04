@@ -1,0 +1,17 @@
+[2023-08-02T18:46:38.199-0500] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: orquestation.tarea4 scheduled__2022-05-16T00:00:00+00:00 [queued]>
+[2023-08-02T18:46:38.205-0500] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: orquestation.tarea4 scheduled__2022-05-16T00:00:00+00:00 [queued]>
+[2023-08-02T18:46:38.205-0500] {taskinstance.py:1308} INFO - Starting attempt 1 of 1
+[2023-08-02T18:46:38.218-0500] {taskinstance.py:1327} INFO - Executing <Task(BashOperator): tarea4> on 2022-05-16 00:00:00+00:00
+[2023-08-02T18:46:38.223-0500] {standard_task_runner.py:57} INFO - Started process 23656 to run task
+[2023-08-02T18:46:38.226-0500] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'orquestation', 'tarea4', 'scheduled__2022-05-16T00:00:00+00:00', '--job-id', '829', '--raw', '--subdir', 'DAGS_FOLDER/5.orquestation.py', '--cfg-path', '/tmp/tmp9op3stns']
+[2023-08-02T18:46:38.228-0500] {standard_task_runner.py:85} INFO - Job 829: Subtask tarea4
+[2023-08-02T18:46:38.260-0500] {task_command.py:410} INFO - Running <TaskInstance: orquestation.tarea4 scheduled__2022-05-16T00:00:00+00:00 [running]> on host pop-os.localdomain
+[2023-08-02T18:46:38.422-0500] {taskinstance.py:1545} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='orquestation' AIRFLOW_CTX_TASK_ID='tarea4' AIRFLOW_CTX_EXECUTION_DATE='2022-05-16T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2022-05-16T00:00:00+00:00'
+[2023-08-02T18:46:38.423-0500] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2023-08-02T18:46:38.423-0500] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', "sleep 2 && echo 'Tarea 4'"]
+[2023-08-02T18:46:38.435-0500] {subprocess.py:86} INFO - Output:
+[2023-08-02T18:46:40.438-0500] {subprocess.py:93} INFO - Tarea 4
+[2023-08-02T18:46:40.439-0500] {subprocess.py:97} INFO - Command exited with return code 0
+[2023-08-02T18:46:40.481-0500] {taskinstance.py:1345} INFO - Marking task as SUCCESS. dag_id=orquestation, task_id=tarea4, execution_date=20220516T000000, start_date=20230802T234638, end_date=20230802T234640
+[2023-08-02T18:46:40.538-0500] {local_task_job_runner.py:225} INFO - Task exited with return code 0
+[2023-08-02T18:46:40.556-0500] {taskinstance.py:2653} INFO - 0 downstream tasks scheduled from follow-on schedule check

@@ -1,0 +1,23 @@
+[2023-08-02T18:26:05.412-0500] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: orquestation.tarea1 scheduled__2022-05-07T00:00:00+00:00 [queued]>
+[2023-08-02T18:26:05.418-0500] {taskinstance.py:1103} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: orquestation.tarea1 scheduled__2022-05-07T00:00:00+00:00 [queued]>
+[2023-08-02T18:26:05.419-0500] {taskinstance.py:1308} INFO - Starting attempt 1 of 1
+[2023-08-02T18:26:05.435-0500] {taskinstance.py:1327} INFO - Executing <Task(BashOperator): tarea1> on 2022-05-07 00:00:00+00:00
+[2023-08-02T18:26:05.442-0500] {standard_task_runner.py:57} INFO - Started process 21197 to run task
+[2023-08-02T18:26:05.446-0500] {standard_task_runner.py:84} INFO - Running: ['airflow', 'tasks', 'run', 'orquestation', 'tarea1', 'scheduled__2022-05-07T00:00:00+00:00', '--job-id', '746', '--raw', '--subdir', 'DAGS_FOLDER/5.orquestation.py', '--cfg-path', '/tmp/tmpr_ve6hkm']
+[2023-08-02T18:26:05.448-0500] {standard_task_runner.py:85} INFO - Job 746: Subtask tarea1
+[2023-08-02T18:26:05.490-0500] {task_command.py:410} INFO - Running <TaskInstance: orquestation.tarea1 scheduled__2022-05-07T00:00:00+00:00 [running]> on host pop-os.localdomain
+[2023-08-02T18:26:05.551-0500] {taskinstance.py:1545} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='airflow' AIRFLOW_CTX_DAG_ID='orquestation' AIRFLOW_CTX_TASK_ID='tarea1' AIRFLOW_CTX_EXECUTION_DATE='2022-05-07T00:00:00+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='scheduled__2022-05-07T00:00:00+00:00'
+[2023-08-02T18:26:05.552-0500] {subprocess.py:63} INFO - Tmp dir root location: /tmp
+[2023-08-02T18:26:05.553-0500] {subprocess.py:75} INFO - Running command: ['/usr/bin/bash', '-c', "sleep 2 && echo'Tarea1'"]
+[2023-08-02T18:26:05.567-0500] {subprocess.py:86} INFO - Output:
+[2023-08-02T18:26:07.571-0500] {subprocess.py:93} INFO - /usr/bin/bash: line 1: echoTarea1: command not found
+[2023-08-02T18:26:07.572-0500] {subprocess.py:97} INFO - Command exited with return code 127
+[2023-08-02T18:26:07.608-0500] {taskinstance.py:1824} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/home/joha/anaconda3/lib/python3.10/site-packages/airflow/operators/bash.py", line 210, in execute
+    raise AirflowException(
+airflow.exceptions.AirflowException: Bash command failed. The command returned a non-zero exit code 127.
+[2023-08-02T18:26:07.806-0500] {taskinstance.py:1345} INFO - Marking task as FAILED. dag_id=orquestation, task_id=tarea1, execution_date=20220507T000000, start_date=20230802T232605, end_date=20230802T232607
+[2023-08-02T18:26:07.826-0500] {standard_task_runner.py:104} ERROR - Failed to execute job 746 for task tarea1 (Bash command failed. The command returned a non-zero exit code 127.; 21197)
+[2023-08-02T18:26:07.837-0500] {local_task_job_runner.py:225} INFO - Task exited with return code 1
+[2023-08-02T18:26:07.929-0500] {taskinstance.py:2653} INFO - 0 downstream tasks scheduled from follow-on schedule check

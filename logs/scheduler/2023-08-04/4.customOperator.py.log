@@ -1,0 +1,14 @@
+[2023-08-04T09:36:26.502-0500] {processor.py:157} INFO - Started process (PID=24884) to work on /home/joha/airflow/dags/4.customOperator.py
+[2023-08-04T09:36:26.504-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/4.customOperator.py for tasks to queue
+[2023-08-04T09:36:26.505-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:26.505-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/4.customOperator.py
+[2023-08-04T09:36:26.520-0500] {processor.py:836} INFO - DAG(s) dict_keys(['customoperator']) retrieved from /home/joha/airflow/dags/4.customOperator.py
+[2023-08-04T09:36:26.538-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:26.538-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-04T09:36:26.558-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:36:26.558-0500] {dag.py:3504} INFO - Setting next_dagrun for customoperator to 2023-08-02T00:00:00+00:00, run_after=2023-08-03T00:00:00+00:00
+[2023-08-04T09:36:26.584-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/4.customOperator.py took 0.089 seconds
+[2023-08-04T09:37:11.013-0500] {processor.py:157} INFO - Started process (PID=25028) to work on /home/joha/airflow/dags/4.customOperator.py
+[2023-08-04T09:37:11.021-0500] {processor.py:826} INFO - Processing file /home/joha/airflow/dags/4.customOperator.py for tasks to queue
+[2023-08-04T09:37:11.022-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:11.022-0500] {dagbag.py:541} INFO - Filling up the DagBag from /home/joha/airflow/dags/4.customOperator.py
+[2023-08-04T09:37:11.031-0500] {processor.py:836} INFO - DAG(s) dict_keys(['customoperator']) retrieved from /home/joha/airflow/dags/4.customOperator.py
+[2023-08-04T09:37:11.061-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:11.061-0500] {dag.py:2742} INFO - Sync 1 DAGs
+[2023-08-04T09:37:11.085-0500] {logging_mixin.py:150} INFO - [2023-08-04T09:37:11.085-0500] {dag.py:3504} INFO - Setting next_dagrun for customoperator to 2023-08-02T00:00:00+00:00, run_after=2023-08-03T00:00:00+00:00
+[2023-08-04T09:37:11.105-0500] {processor.py:179} INFO - Processing /home/joha/airflow/dags/4.customOperator.py took 0.115 seconds
